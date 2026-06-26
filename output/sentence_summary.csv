@@ -1,0 +1,9 @@
+sentence_id,reference_text,predicted_sentence,used_fallback,llm_error,error_type,error_msg
+1,我喜歡蘋果,,,,AttributeError,'_iLocIndexer' object has no attribute 'to_dict'
+2,母親買麵包,,,,AttributeError,'_iLocIndexer' object has no attribute 'to_dict'
+3,老師幫助學生,,,,AttributeError,'_iLocIndexer' object has no attribute 'to_dict'
+4,朋友找醫生,,,,AttributeError,'_iLocIndexer' object has no attribute 'to_dict'
+5,明天大家休息,,,,AttributeError,'_iLocIndexer' object has no attribute 'to_dict'
+6,昨天考試緊張,,,,AttributeError,'_iLocIndexer' object has no attribute 'to_dict'
+7,今天我去超市買牛奶和雞蛋,,,,AttributeError,'_iLocIndexer' object has no attribute 'to_dict'
+8,因為大雨，父親和伯父坐在家喝茶,,,,AttributeError,'_iLocIndexer' object has no attribute 'to_dict'

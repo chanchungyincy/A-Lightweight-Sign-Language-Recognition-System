@@ -1,0 +1,401 @@
+﻿sample_id,view,true_id,true_gloss,pred_top1,pred_top1_id,top1_prob,top2,top3,top4,top5,top1_correct,top5_correct,llm_keywords,llm_sentence,llm_reliable,is_fallback,conf_band
+P09_0021_front,front,21,鸡,鸡,21,0.2364,看1-1,妹妹,如果,奶奶,True,True,鸡 看1-1 妹妹,信心度不足 — 關鍵詞：鸡 看1-1 妹妹,False,False,low
+P09_0071_front,front,71,跑,跑,71,0.7974,找,公园,感谢,有,True,True,跑 找 公园,跑去公園找找看。,True,False,high
+P09_0090_front,front,90,答案,答案,90,0.7125,鸡蛋,水果,买,豆腐1-1,True,True,答案 鸡蛋 水果,答案是雞蛋和水果。,True,False,high
+P09_0109_front,front,109,什么,什么,109,0.0934,因为1-1,8,没事,下课,True,True,什么 因为1-1 8,信心度不足 — 關鍵詞：什么 因为1-1 8,False,True,low
+P09_0145_front,front,145,9,8,5575,0.1116,可以,明天,10,2,False,False,8 可以 明天,信心度不足 — 關鍵詞：8 可以 明天,False,True,low
+P09_0165_front,front,165,水果,水果,165,0.7217,鸡蛋,红,忧愁,答案,True,True,水果 鸡蛋 红,水果和雞蛋都是紅色的。,True,False,high
+P09_0198_front,front,198,是,小,5471,0.197,小孩儿,为什么,花,有,False,False,小 小孩儿 为什么,信心度不足 — 關鍵詞：小 小孩儿 为什么,False,False,low
+P09_0246_front,front,246,拨,咖啡,5353,0.3411,喂,拨,足球,紧张,False,True,咖啡 喂 拨,咖啡已經沖好了，快來喝吧。,True,False,high
+P09_0289_front,front,289,新1-1,新1-1,289,0.4078,写字,坐,鞋,在,True,True,新1-1 写字 坐,他正坐著寫字。,True,False,high
+P09_0300_front,front,300,鱼,鱼,300,0.8037,快,累,腹,舒服,True,True,鱼 快 累,魚很快就游累了。,True,False,high
+P09_0356_front,front,356,菜,厕所,6149,0.0593,可以,什么,以后,不,False,False,厕所 可以 什么,信心度不足 — 關鍵詞：厕所 可以 什么,False,True,low
+P09_0369_front,front,369,慢1-1,也,5086,0.2172,失败1-1,慢1-1,没有1-1,少,False,True,也 失败1-1 慢1-1,信心度不足 — 關鍵詞：也 失败1-1 慢1-1,False,False,low
+P09_0396_front,front,396,父亲,父亲,396,0.1836,渴,母亲,紫,喜欢,True,True,父亲 渴 母亲,信心度不足 — 關鍵詞：父亲 渴 母亲,False,False,low
+P09_0457_front,front,457,大寒,大寒,457,0.3811,对,超市,参加,大,True,True,大寒 对 超市,大寒那天我們去了超市。,True,False,high
+P09_0477_front,front,477,快,快,477,0.697,鱼,他们,努力,晚上,True,True,快 鱼 他们,他們很快就釣到了魚。,True,False,high
+P09_0488_front,front,488,我们,大家,5599,0.2322,我们,他们,你们,多,False,True,大家 我们 他们,信心度不足 — 關鍵詞：大家 我们 他们,False,False,low
+P09_0514_front,front,514,苹果,苹果,514,0.5474,写字,新1-1,干净,担心,True,True,苹果 写字 新1-1,蘋果正在寫字，這是全新的開始。,True,False,high
+P09_0526_front,front,526,学生,学生,526,0.4961,椅子,朋友,和,肉,True,True,学生 椅子 朋友,學生坐在椅子上和朋友聊天。,True,False,high
+P09_0534_front,front,534,不同,大,3609,0.8159,不同,桌子,超市,高兴,False,True,大 不同 桌子,這張桌子看起來相當與眾不同。,True,False,high
+P09_0557_front,front,557,葡萄,葡萄,557,0.8561,答案,香蕉,超市,红,True,True,葡萄 答案 香蕉,葡萄的答案是香蕉。,True,False,high
+P09_0603_front,front,603,来,下课,6307,0.1227,失败1-1,走,好,散步,False,False,下课 失败1-1 走,信心度不足 — 關鍵詞：下课 失败1-1 走,False,True,low
+P09_0639_front,front,639,大雨,大雨,639,0.9214,树1-1,书包,等,美,True,True,大雨 树1-1 书包,大雨中，樹下放著一個書包。,True,False,high
+P09_0805_front,front,805,成功1-1,茶,2533,0.3327,不同,拨,帮助,成功1-1,False,True,茶 不同 拨,茶的種類各有不同。,True,False,high
+P09_0869_front,front,869,回家1-1,同学1-1,1104,0.7684,回家1-1,豆腐1-1,食堂,作业,False,True,同学1-1 回家1-1 豆腐1-1,同學回家吃豆腐。,True,False,high
+P09_0927_front,front,927,不,法国,2558,0.1411,赌气,渴,恐怕,衣服,False,False,法国 赌气 渴,信心度不足 — 關鍵詞：法国 赌气 渴,False,True,low
+P09_0930_front,front,930,但是1-1,为什么,3492,0.1716,花,少,没有1-1,需要1-1,False,False,为什么 花 少,信心度不足 — 關鍵詞：为什么 花 少,False,False,low
+P09_0963_front,front,963,容易,听,4691,0.1688,容易,黑,知道,忘记,False,True,听 容易 黑,信心度不足 — 關鍵詞：听 容易 黑,False,False,low
+P09_0968_front,front,968,牛奶,牛奶,968,0.6743,高,黑,谁,热1-2,True,True,牛奶 高 黑,牛奶放得太久已經變黑了。,True,False,high
+P09_1104_front,front,1104,同学1-1,同学1-1,1104,0.7156,回家1-1,食堂,豆腐1-1,作业,True,True,同学1-1 回家1-1 食堂,同學從食堂回家。,True,False,high
+P09_1224_front,front,1224,早上1-1,英俊,2217,0.2862,我们,早上1-1,多,所以1-1,False,True,英俊 我们 早上1-1,英俊的他在早上與我們見面。,True,False,high
+P09_1230_front,front,1230,6,8,5575,0.1096,他,可以,5,什么,False,False,8 他 可以,信心度不足 — 關鍵詞：8 他 可以,False,True,low
+P09_1251_front,front,1251,学校,学校,1251,0.1814,肉,学生,椅子,图书馆,True,True,学校 肉 学生,信心度不足 — 關鍵詞：学校 肉 学生,False,False,low
+P09_1256_front,front,1256,找,跑,71,0.5055,找,水果,银行,玩1-1,False,True,跑 找 水果,跑去尋找水果。,True,False,high
+P09_1270_front,front,1270,写字,写字,1270,0.2906,新1-1,坐,在,鞋,True,True,写字 新1-1 坐,他正坐著寫新的字。,True,False,high
+P09_1284_front,front,1284,医院,医院,1284,0.8812,食堂,鸡蛋,学习1-1,答案,True,True,医院 食堂 鸡蛋,醫院的食堂裡有雞蛋。,True,False,high
+P09_1325_front,front,1325,感谢,衣服,2835,0.2854,感谢,没事,有,我,False,True,衣服 感谢 没事,衣服的事不用客氣，沒關係的。,True,False,high
+P09_1328_front,front,1328,忘记,土耳其,2559,0.3002,医生,学习1-1,黑,聪明1-1,False,False,土耳其 医生 学习1-1,那位醫生正在學習土耳其語。,True,False,high
+P09_1359_front,front,1359,阿姨,但是1-1,930,0.2997,没事,感谢,有,衣服,False,False,但是1-1 没事 感谢,但是真的沒事，非常感謝您。,True,False,high
+P09_1406_front,front,1406,晚上,晚上,1406,0.7763,奶奶,昨天,努力,文静,True,True,晚上 奶奶 昨天,昨天晚上奶奶在晚上時過來了。,True,False,high
+P09_1597_front,front,1597,老师,老师,1597,0.2922,恐怕,赌气,我,也,True,True,老师 恐怕 赌气,老師恐怕是在賭氣。,True,False,high
+P09_1614_front,front,1614,教导,教导,1614,0.8661,健康,工作1-1,图书馆,苹果,True,True,教导 健康 工作1-1,他正在教導我們如何保持健康地工作。,True,False,high
+P09_1636_front,front,1636,豆腐1-1,豆腐1-1,1636,0.8652,同学1-1,回家1-1,食堂,面包,True,True,豆腐1-1 同学1-1 回家1-1,豆腐和同學一起回家了。,True,False,high
+P09_1653_front,front,1653,牢记,牢记,1653,0.8285,谁,容易,黑,腻2-2,True,True,牢记 谁 容易,要牢記誰是容易的。,True,False,high
+P09_1658_front,front,1658,10,可以,2498,0.123,8,他,5,明天,False,False,可以 8 他,信心度不足 — 關鍵詞：可以 8 他,False,True,low
+P09_1670_front,front,1670,少,小孩儿,4486,0.2551,去,为什么,需要1-1,少,False,True,小孩儿 去 为什么,那個小孩兒為什麼要過去呢？,True,False,high
+P09_1688_front,front,1688,坏,因为1-1,5780,0.2132,什么,为什么,没事,下课,False,False,因为1-1 什么 为什么,信心度不足 — 關鍵詞：因为1-1 什么 为什么,False,False,low
+P09_1747_front,front,1747,鸡蛋,鸡蛋,1747,0.6631,水果,医院,答案,忧愁,True,True,鸡蛋 水果 医院,雞蛋和水果被送到了醫院。,True,False,high
+P09_1752_front,front,1752,讲课1-1,讲课1-1,1752,0.8851,公司,豆腐1-1,对不起1-2,公园,True,True,讲课1-1 公司 豆腐1-1,他在公司講課時提到了豆腐。,True,False,high
+P09_1770_front,front,1770,今天,饿,4249,0.2362,今天,没有1-1,也,少,False,True,饿 今天 没有1-1,信心度不足 — 關鍵詞：饿 今天 没有1-1,False,False,low
+P09_1817_front,front,1817,聪明1-1,医生,2102,0.2288,学习1-1,聪明1-1,喝,如果,False,True,医生 学习1-1 聪明1-1,信心度不足 — 關鍵詞：医生 学习1-1 聪明1-1,False,False,low
+P09_1818_front,front,1818,伯父,伯父,1818,0.661,黄1-1,父亲,鼻,晚上,True,True,伯父 黄1-1 父亲,伯父是黃先生的父親。,True,False,high
+P09_1823_front,front,1823,超市,超市,1823,0.6338,银行,车站,鸡蛋,葡萄,True,True,超市 银行 车站,超市、銀行和車站都在附近。,True,False,high
+P09_1836_front,front,1836,鞋,鞋,1836,0.7846,在,爱,累,站,True,True,鞋 在 爱,鞋子就在那裡。,True,False,high
+P09_1879_front,front,1879,水1-1,喜欢,2462,0.2307,渴,紫,水1-1,母亲,False,True,喜欢 渴 紫,信心度不足 — 關鍵詞：喜欢 渴 紫,False,False,low
+P09_1887_front,front,1887,走,走,1887,0.4496,散步,腹,鱼,饿,True,True,走 散步 腹,他正一邊散步一邊揉著肚子。,True,False,high
+P09_1925_front,front,1925,你,因为1-1,5780,0.1035,好,下课,没事,抢,False,False,因为1-1 好 下课,信心度不足 — 關鍵詞：因为1-1 好 下课,False,True,low
+P09_1928_front,front,1928,我,腹,5858,0.214,恐怕,也,老师,我,False,True,腹 恐怕 也,信心度不足 — 關鍵詞：腹 恐怕 也,False,False,low
+P09_1955_front,front,1955,电影院,椅子,5753,0.5192,家,电影院,学生,学校,False,True,椅子 家 电影院,那把椅子從家裡被搬到了電影院。,True,False,high
+P09_1962_front,front,1962,考试1-2,考试1-2,1962,0.5698,成绩,起床,卖,爱,True,True,考试1-2 成绩 起床,考試成績在一兩點的時候出來了，我一起床就看到了。,True,False,high
+P09_2026_front,front,2026,大雪,大雪,2026,0.7096,怎样,大雨,葡萄,回家1-1,True,True,大雪 怎样 大雨,大雪和大雨的情況是怎樣的呢？,True,False,high
+P09_2039_front,front,2039,在,做,4870,0.6813,在,坐,卖,买,False,True,做 在 坐,他正在做著，然後坐了下來。,True,False,high
+P09_2069_front,front,2069,失败1-1,紫,5736,0.0905,水1-1,累,失败1-1,来,False,True,紫 水1-1 累,信心度不足 — 關鍵詞：紫 水1-1 累,False,True,low
+P09_2092_front,front,2092,好,下课,6307,0.1383,因为1-1,抢,好,是,False,True,下课 因为1-1 抢,信心度不足 — 關鍵詞：下课 因为1-1 抢,False,True,low
+P09_2102_front,front,2102,医生,学习1-1,4462,0.2297,医生,喝,如果,鸡,False,True,学习1-1 医生 喝,信心度不足 — 關鍵詞：学习1-1 医生 喝,False,False,low
+P09_2130_front,front,2130,工作1-1,工作1-1,2130,0.9409,饺子,银行,香蕉,考试1-2,True,True,工作1-1 饺子 银行,我在銀行工作，然後去吃了餃子。,True,False,high
+P09_2180_front,front,2180,散步,走,1887,0.3541,散步,鱼,腹,饿,False,True,走 散步 鱼,走著去散步，順便看看魚。,True,False,high
+P09_2201_front,front,2201,天空,牢记,1653,0.2162,容易,明天,天空,黑,False,True,牢记 容易 明天,信心度不足 — 關鍵詞：牢记 容易 明天,False,False,low
+P09_2206_front,front,2206,文静,文静,2206,0.613,努力,晚上,他们,快,True,True,文静 努力 晚上,文靜在晚上依然努力不懈。,True,False,high
+P09_2217_front,front,2217,英俊,英俊,2217,0.6926,早上1-1,所以1-1,多,姐姐,True,True,英俊 早上1-1 所以1-1,因為他長得英俊，所以今天早上特別引人注目。,True,False,high
+P09_2229_front,front,2229,健康,健康,2229,0.6822,身体,高兴,现在,书包,True,True,健康 身体 高兴,身體健康，心情自然愉快。,True,False,high
+P09_2230_front,front,2230,以后,5,5513,0.147,3,4,2,10,False,False,5 3 4,信心度不足 — 關鍵詞：5 3 4,False,True,low
+P09_2244_front,front,2244,如果,如果,2244,0.1514,医生,喝,学习1-1,鸡,True,True,如果 医生 喝,信心度不足 — 關鍵詞：如果 医生 喝,False,False,low
+P09_2257_front,front,2257,成绩,成绩,2257,0.6282,考试1-2,朋友,爱,帮助,True,True,成绩 考试1-2 朋友,考試的成績出來後，我告訴了一兩位朋友。,True,False,high
+P09_2346_front,front,2346,桌子,桌子,2346,0.7961,干净,面包,高兴,开朗,True,True,桌子 干净 面包,桌子擦乾淨後，麵包就可以放在上面了。,True,False,high
+P09_2386_front,front,2386,身体,参加,6526,0.1394,身体,茶,面包,帮助,False,True,参加 身体 茶,信心度不足 — 關鍵詞：参加 身体 茶,False,True,low
+P09_2400_front,front,2400,站,站,2400,0.8222,喂,紧张,鞋,拨,True,True,站 喂 紧张,他站起來餵食時顯得有些緊張。,True,False,high
+P09_2407_front,front,2407,矮,赌气,2680,0.2768,恐怕,矮,今天,饿,False,True,赌气 恐怕 矮,恐怕他是在賭氣才故意說自己矮的。,True,False,high
+P09_2415_front,front,2415,说,说,2415,0.2407,奶奶,鸡,如果,看1-1,True,True,说 奶奶 鸡,信心度不足 — 關鍵詞：说 奶奶 鸡,False,False,low
+P09_2416_front,front,2416,担心,担心,2416,0.3001,苹果,高兴,写字,大,True,True,担心 苹果 高兴,原本擔心蘋果，但現在很高興。,True,False,high
+P09_2441_front,front,2441,他们,他们,2441,0.7188,努力,你们,散步,快,True,True,他们 努力 你们,他們正在努力，你們也是。,True,False,high
+P09_2455_front,front,2455,累,累,2455,0.5603,做,在,紧张,坐,True,True,累 做 在,做得累了。,True,False,high
+P09_2462_front,front,2462,喜欢,喜欢,2462,0.2426,父亲,伯父,渴,母亲,True,True,喜欢 父亲 伯父,信心度不足 — 關鍵詞：喜欢 父亲 伯父,False,False,low
+P09_2488_front,front,2488,鼻,鼻,2488,0.7224,伯父,牢记,白,厕所,True,True,鼻 伯父 牢记,伯父的叮囑，我始終牢記在心。,True,False,high
+P09_2492_front,front,2492,食堂,医院,1284,0.5026,食堂,天空,回家1-1,忘记,False,True,医院 食堂 天空,醫院的食堂上方是一片開闊的天空。,True,False,high
+P09_2498_front,front,2498,可以,可以,2498,0.1623,5,8,3,2,True,True,可以 5 8,信心度不足 — 關鍵詞：可以 5 8,False,False,low
+P09_2505_front,front,2505,没有1-1,小孩儿,4486,0.2186,为什么,去,需要1-1,没有1-1,False,True,小孩儿 为什么 去,信心度不足 — 關鍵詞：小孩儿 为什么 去,False,False,low
+P09_2533_front,front,2533,茶,茶,2533,0.4581,成绩,帮助,成功1-1,参加,True,True,茶 成绩 帮助,喝茶有助於提升成績。,True,False,high
+P09_2535_front,front,2535,看1-1,晚上,1406,0.1837,黄1-1,7,知道,说,False,False,晚上 黄1-1 7,信心度不足 — 關鍵詞：晚上 黄1-1 7,False,False,low
+P09_2558_front,front,2558,法国,法国,2558,0.7201,赌气,老师,渴,脏,True,True,法国 赌气 老师,法國老師正在賭氣。,True,False,high
+P09_2559_front,front,2559,土耳其,土耳其,2559,0.7599,高,聪明1-1,天空,黑,True,True,土耳其 高 聪明1-1,土耳其人向來以聰明才智著稱。,True,False,high
+P09_2598_front,front,2598,妹妹,妹妹,2598,0.1673,鸡,姐姐,如果,牢记,True,True,妹妹 鸡 姐姐,信心度不足 — 關鍵詞：妹妹 鸡 姐姐,False,False,low
+P09_2648_front,front,2648,舒服,法国,2558,0.177,舒服,散步,走,鱼,False,True,法国 舒服 散步,信心度不足 — 關鍵詞：法国 舒服 散步,False,False,low
+P09_2659_front,front,2659,3,5,5513,0.1444,可以,8,3,2,False,True,5 可以 8,信心度不足 — 關鍵詞：5 可以 8,False,True,low
+P09_2676_front,front,2676,7,8,5575,0.1407,5,可以,他,2,False,False,8 5 可以,信心度不足 — 關鍵詞：8 5 可以,False,True,low
+P09_2678_front,front,2678,树1-1,树1-1,2678,0.8934,篮球,大雨,大雪,眼镜,True,True,树1-1 篮球 大雨,樹下原本在打籃球，卻突然下起了大雨。,True,False,high
+P09_2680_front,front,2680,赌气,赌气,2680,0.516,恐怕,老师,今天,腹,True,True,赌气 恐怕 老师,恐怕他是在跟老師賭氣呢。,True,False,high
+P09_2694_front,front,2694,2,5,5513,0.1061,4,可以,3,10,False,False,5 4 可以,信心度不足 — 關鍵詞：5 4 可以,False,True,low
+P09_2701_front,front,2701,喂,喂,2701,0.4612,咖啡,足球,站,紧张,True,True,喂 咖啡 足球,喂，要不要一邊喝咖啡一邊看足球？,True,False,high
+P09_2732_front,front,2732,坐,做,4870,0.2766,坐,买,在,卖,False,True,做 坐 买,他做了下來，然後買了東西。,True,False,high
+P09_2832_front,front,2832,母亲,喜欢,2462,0.2622,渴,紫,母亲,水1-1,False,True,喜欢 渴 紫,我喜歡喝紫色的飲料。,True,False,high
+P09_2835_front,front,2835,衣服,没事,6056,0.091,因为1-1,衣服,多,但是1-1,False,True,没事 因为1-1 衣服,信心度不足 — 關鍵詞：没事 因为1-1 衣服,False,True,low
+P09_2838_front,front,2838,公园,公园,2838,0.8617,跑,找,感谢,身体,True,True,公园 跑 找,在公園裡跑著尋找。,True,False,high
+P09_2853_front,front,2853,4,可以,2498,0.1118,5,3,8,2,False,False,可以 5 3,信心度不足 — 關鍵詞：可以 5 3,False,True,low
+P09_2899_front,front,2899,热1-2,学习1-1,4462,0.188,医生,聪明1-1,忘记,土耳其,False,False,学习1-1 医生 聪明1-1,信心度不足 — 關鍵詞：学习1-1 医生 聪明1-1,False,False,low
+P09_2902_front,front,2902,花,为什么,3492,0.1232,需要1-1,有,少,没有1-1,False,False,为什么 需要1-1 有,信心度不足 — 關鍵詞：为什么 需要1-1 有,False,True,low
+P09_2908_front,front,2908,饺子,饺子,2908,0.9117,起床,工作1-1,朋友,学生,True,True,饺子 起床 工作1-1,我起床後就去工作包餃子。,True,False,high
+P09_2913_front,front,2913,恐怕,赌气,2680,0.2121,恐怕,老师,今天,我,False,True,赌气 恐怕 老师,信心度不足 — 關鍵詞：赌气 恐怕 老师,False,False,low
+P09_2922_front,front,2922,努力,努力,2922,0.6894,晚上,他们,文静,快,True,True,努力 晚上 他们,他們晚上很努力。,True,False,high
+P09_2961_front,front,2961,给,我们,488,0.2167,英俊,你们,多,所以1-1,False,False,我们 英俊 你们,信心度不足 — 關鍵詞：我们 英俊 你们,False,False,low
+P09_2985_front,front,2985,面包,面包,2985,0.507,教室,帮助,脚1-1,书包,True,True,面包 教室 帮助,我在教室裡幫忙分發麵包。,True,False,high
+P09_3031_front,front,3031,抢,下课,6307,0.1079,8,什么,小,1,False,False,下课 8 什么,信心度不足 — 關鍵詞：下课 8 什么,False,True,low
+P09_3113_front,front,3113,奶奶,奶奶,3113,0.5933,黄1-1,晚上,伯父,鸡,True,True,奶奶 黄1-1 晚上,奶奶在晚上看電視。,True,False,high
+P09_3149_front,front,3149,姐姐,姐姐,3149,0.1553,奶奶,妹妹,如果,鸡,True,True,姐姐 奶奶 妹妹,信心度不足 — 關鍵詞：姐姐 奶奶 妹妹,False,False,low
+P09_3185_front,front,3185,睡觉,睡觉,3185,0.3391,奶奶,黄1-1,听,知道,True,True,睡觉 奶奶 黄1-1,奶奶正在睡覺。,True,False,high
+P09_3257_front,front,3257,腿1-1,腿1-1,3257,0.8621,矮,1,需要1-1,椅子,True,True,腿1-1 矮 1,他的腿比較短。,True,False,high
+P09_3308_front,front,3308,开始,大,3609,0.4578,桌子,开始,开朗,干净,False,True,大 桌子 开始,那張大桌子已經開始使用了。,True,False,high
+P09_3386_front,front,3386,起床,起床,3386,0.4385,站,喂,成绩,拨,True,True,起床 站 喂,起床後站著餵食。,True,False,high
+P09_3388_front,front,3388,饭,饭,3388,0.2859,等,喝,奶奶,说,True,True,饭 等 喝,飯先等一等，然後再喝。,True,False,high
+P09_3422_front,front,3422,篮球,家,5726,0.3148,椅子,面包,教室,篮球,False,True,家 椅子 面包,家裡的椅子上放著麵包。,True,False,high
+P09_3492_front,front,3492,为什么,小孩儿,4486,0.2312,需要1-1,为什么,去,少,False,True,小孩儿 需要1-1 为什么,信心度不足 — 關鍵詞：小孩儿 需要1-1 为什么,False,False,low
+P09_3504_front,front,3504,喝,如果,2244,0.2371,喝,医生,鸡,等,False,True,如果 喝 医生,信心度不足 — 關鍵詞：如果 喝 医生,False,False,low
+P09_3609_front,front,3609,大,不同,534,0.6378,大,桌子,拨,也,False,True,不同 大 桌子,這些是大小不同的桌子。,True,False,high
+P09_3672_front,front,3672,爱,在,2039,0.2265,坐,考试1-2,卖,站,False,False,在 坐 考试1-2,信心度不足 — 關鍵詞：在 坐 考试1-2,False,False,low
+P09_3703_front,front,3703,去,鱼,300,0.479,走,散步,快,腹,False,False,鱼 走 散步,魚兒正在悠閒地散步。,True,False,high
+P09_3716_front,front,3716,书包,书包,3716,0.8473,脚1-1,教室,面包,健康,True,True,书包 脚1-1 教室,書包落在教室裡了。,True,False,high
+P09_3735_front,front,3735,等,鼻,2488,0.8145,厕所,等,伯父,菜,False,True,鼻 厕所 等,我在廁所外等著擤鼻子。,True,False,high
+P09_3789_front,front,3789,银行,银行,3789,0.9002,工作1-1,香蕉,饺子,用,True,True,银行 工作1-1 香蕉,我在銀行工作時買了香蕉。,True,False,high
+P09_3993_front,front,3993,买,买,3993,0.838,香蕉,银行,写字,脚1-1,True,True,买 香蕉 银行,我去銀行買了香蕉。,True,False,high
+P09_4002_front,front,4002,哥哥,哥哥,4002,0.6273,弟弟,姐姐,妹妹,牢记,True,True,哥哥 弟弟 姐姐,哥哥、弟弟和姐姐都在這裡。,True,False,high
+P09_4027_front,front,4027,黑,黑,4027,0.2837,土耳其,高,牢记,热1-2,True,True,黑 土耳其 高,土耳其的黑人長得很高。,True,False,high
+P09_4073_front,front,4073,脚1-1,脚1-1,4073,0.2774,高兴,身体,担心,现在,True,True,脚1-1 高兴 身体,我的腳傷痊癒了，整個人高興得手舞足蹈。,True,False,high
+P09_4102_front,front,4102,多,我们,488,0.4643,多,大家,你们,英俊,False,True,我们 多 大家,我們大家都要多多努力。,True,False,high
+P09_4113_front,front,4113,以前,可以,2498,0.1078,5,6,8,2,False,False,可以 5 6,信心度不足 — 關鍵詞：可以 5 6,False,True,low
+P09_4249_front,front,4249,饿,饿,4249,0.6279,今天,腹,没有1-1,也,True,True,饿 今天 腹,我今天肚子餓了。,True,False,high
+P09_4270_front,front,4270,肉,肉,4270,0.2808,成绩,爱,学生,椅子,True,True,肉 成绩 爱,肉體的成績充滿了愛。,True,False,high
+P09_4349_front,front,4349,对,对,4349,0.8185,朋友,累,跑,苹果,True,True,对 朋友 累,面對朋友時，我感到有些疲憊。,True,False,high
+P09_4462_front,front,4462,学习1-1,医生,2102,0.3417,学习1-1,土耳其,看1-1,聪明1-1,False,True,医生 学习1-1 土耳其,醫生正在學習土耳其語。,True,False,high
+P09_4466_front,front,4466,昨天,昨天,4466,0.198,晚上,以前,奶奶,来,True,True,昨天 晚上 以前,信心度不足 — 關鍵詞：昨天 晚上 以前,False,False,low
+P09_4485_front,front,4485,白,什么,109,0.098,可以,他,8,因为1-1,False,False,什么 可以 他,信心度不足 — 關鍵詞：什么 可以 他,False,True,low
+P09_4486_front,front,4486,小孩儿,小孩儿,4486,0.5021,他,去,需要1-1,为什么,True,True,小孩儿 他 去,那個小孩兒已經過去了。,True,False,high
+P09_4525_front,front,4525,怎样,怎样,4525,0.5043,大雨,大雪,桌子,开始,True,True,怎样 大雨 大雪,大雨和大雪是怎樣的呢？,True,False,high
+P09_4542_front,front,4542,明天,明天,4542,0.5585,以后,知道,天空,听,True,True,明天 以后 知道,明天之後就會知道了。,True,False,high
+P09_4691_front,front,4691,听,黑,4027,0.3305,听,知道,容易,天空,False,True,黑 听 知道,他聽完之後才知道是黑的。,True,False,high
+P09_4870_front,front,4870,做,做,4870,0.6757,紧张,坐,在,作业,True,True,做 紧张 坐,他緊張地坐下來做事。,True,False,high
+P09_4871_front,front,4871,美,美,4871,0.1634,文静,爷爷,父亲,红,True,True,美 文静 爷爷,信心度不足 — 關鍵詞：美 文静 爷爷,False,False,low
+P09_4878_front,front,4878,干净,写字,1270,0.4505,苹果,干净,新1-1,大,False,True,写字 苹果 干净,把寫好的字擦得跟蘋果一樣乾淨。,True,False,high
+P09_4904_front,front,4904,公司,公司,4904,0.6919,讲课1-1,忧愁,公园,用,True,True,公司 讲课1-1 忧愁,公司正在講課時，他露出了憂愁的神情。,True,False,high
+P09_4910_front,front,4910,有,需要1-1,5610,0.1533,也,少,去,小,False,False,需要1-1 也 少,信心度不足 — 關鍵詞：需要1-1 也 少,False,False,low
+P09_4944_front,front,4944,眼镜,眼镜,4944,0.578,篮球,家,学校,树1-1,True,True,眼镜 篮球 家,眼鏡放在家裡，我去打籃球了。,True,False,high
+P09_4967_front,front,4967,所以1-1,所以1-1,4967,0.3644,明天,可以,以后,多,True,True,所以1-1 明天 可以,所以明天就可以了。,True,False,high
+P09_4979_front,front,4979,弟弟,弟弟,4979,0.1118,姐姐,哥哥,妹妹,等,True,True,弟弟 姐姐 哥哥,信心度不足 — 關鍵詞：弟弟 姐姐 哥哥,False,True,low
+P09_5008_front,front,5008,朋友,朋友,5008,0.5313,考试1-2,肉,成绩,对,True,True,朋友 考试1-2 肉,朋友考試結束後，我們一起去吃了肉。,True,False,high
+P09_5022_front,front,5022,用,用,5022,0.5415,卖,成功1-1,银行,工作1-1,True,True,用 卖 成功1-1,他成功地將商品賣出去了。,True,False,high
+P09_5086_front,front,5086,也,腹,5858,0.48,饿,今天,也,矮,False,True,腹 饿 今天,我今天肚子餓了。,True,False,high
+P09_5094_front,front,5094,帮助,帮助,5094,0.7368,面包,高兴,脚1-1,书包,True,True,帮助 面包 高兴,幫助他買到麵包讓他很高興。,True,False,high
+P09_5253_front,front,5253,腻2-2,腻2-2,5253,0.7375,谁,英俊,美,你们,True,True,腻2-2 谁 英俊,你覺得誰長得比較英俊呢？,True,False,high
+P09_5311_front,front,5311,对不起1-2,对不起1-2,5311,0.2234,卖,银行,水果,做,True,True,对不起1-2 卖 银行,信心度不足 — 關鍵詞：对不起1-2 卖 银行,False,False,low
+P09_5316_front,front,5316,玩1-1,玩1-1,5316,0.6209,新1-1,写字,鞋,足球,True,True,玩1-1 新1-1 写字,我正在玩一個新的寫字遊戲。,True,False,high
+P09_5340_front,front,5340,脏,脏,5340,0.53,赌气,老师,法国,失败1-1,True,True,脏 赌气 老师,老師氣得連衣服都弄髒了。,True,False,high
+P09_5353_front,front,5353,咖啡,咖啡,5353,0.357,足球,喂,起床,拨,True,True,咖啡 足球 喂,我剛喝完咖啡，正要看足球賽時，電話突然響了，原來是朋友打來喂了一聲。,True,False,high
+P09_5466_front,front,5466,图书馆,图书馆,5466,0.8382,作业,苹果,家,开始,True,True,图书馆 作业 苹果,我在圖書館寫作業時吃了蘋果。,True,False,high
+P09_5471_front,front,5471,小,需要1-1,5610,0.2369,走,小孩儿,小,去,False,True,需要1-1 走 小孩儿,信心度不足 — 關鍵詞：需要1-1 走 小孩儿,False,False,low
+P09_5478_front,front,5478,和,和,5478,0.8216,参加,朋友,对,学生,True,True,和 参加 朋友,我和朋友一起參加了。,True,False,high
+P09_5504_front,front,5504,1,8,5575,0.1115,3,4,2,5,False,False,8 3 4,信心度不足 — 關鍵詞：8 3 4,False,True,low
+P09_5513_front,front,5513,5,他,6450,0.1405,可以,明天,什么,8,False,False,他 可以 明天,信心度不足 — 關鍵詞：他 可以 明天,False,True,low
+P09_5575_front,front,5575,8,他,6450,0.4411,以后,明天,8,什么,False,True,他 以后 明天,他明天之後會來。,True,False,high
+P09_5599_front,front,5599,大家,大家,5599,0.6528,他们,我们,散步,你们,True,True,大家 他们 我们,大家、他們和我們都是一起的。,True,False,high
+P09_5610_front,front,5610,需要1-1,为什么,3492,0.1504,小孩儿,少,没有1-1,需要1-1,False,True,为什么 小孩儿 少,信心度不足 — 關鍵詞：为什么 小孩儿 少,False,False,low
+P09_5637_front,front,5637,谁,谁,5637,0.6912,腻2-2,牢记,牛奶,美,True,True,谁 腻2-2 牢记,誰會牢牢記住呢？,True,False,high
+P09_5651_front,front,5651,作业,作业,5651,0.7153,香蕉,银行,写字,做,True,True,作业 香蕉 银行,我做完作業後去銀行買了香蕉。,True,False,high
+P09_5698_front,front,5698,开朗,开朗,5698,0.5601,图书馆,大雪,大寒,教室,True,True,开朗 图书馆 大雪,開朗的他冒著大雪前往圖書館。,True,False,high
+P09_5716_front,front,5716,高兴,大寒,457,0.1867,面包,高兴,帮助,桌子,False,True,大寒 面包 高兴,信心度不足 — 關鍵詞：大寒 面包 高兴,False,False,low
+P09_5726_front,front,5726,家,肉,4270,0.2081,椅子,学生,家,学校,False,True,肉 椅子 学生,信心度不足 — 關鍵詞：肉 椅子 学生,False,False,low
+P09_5736_front,front,5736,紫,喜欢,2462,0.2456,渴,紫,水1-1,母亲,False,True,喜欢 渴 紫,信心度不足 — 關鍵詞：喜欢 渴 紫,False,False,low
+P09_5753_front,front,5753,椅子,家,5726,0.3532,椅子,学校,学生,面包,False,True,家 椅子 学校,家裡有張椅子，學校裡也有一張。,True,False,high
+P09_5780_front,front,5780,因为1-1,因为1-1,5780,0.0983,蓝1-2,没有1-1,没事,小孩儿,True,True,因为1-1 蓝1-2 没有1-1,信心度不足 — 關鍵詞：因为1-1 蓝1-2 没有1-1,False,True,low
+P09_5781_front,front,5781,高,高,5781,0.8023,黑,牛奶,天空,哥哥,True,True,高 黑 牛奶,這杯牛奶已經放得太久，顏色變得又高又黑。,True,False,high
+P09_5800_front,front,5800,问,黄1-1,6343,0.1329,奶奶,腻2-2,问,晚上,False,True,黄1-1 奶奶 腻2-2,信心度不足 — 關鍵詞：黄1-1 奶奶 腻2-2,False,True,low
+P09_5807_front,front,5807,渴,紫,5736,0.1842,渴,喜欢,水1-1,母亲,False,True,紫 渴 喜欢,信心度不足 — 關鍵詞：紫 渴 喜欢,False,False,low
+P09_5855_front,front,5855,红,喜欢,2462,0.2637,渴,紫,水1-1,母亲,False,False,喜欢 渴 紫,我喜歡喝紫色的飲料。,True,False,high
+P09_5858_front,front,5858,腹,腹,5858,0.7476,饿,今天,矮,也,True,True,腹 饿 今天,我今天肚子餓了。,True,False,high
+P09_5894_front,front,5894,车站,车站,5894,0.2041,拨,足球,咖啡,喂,True,True,车站 拨 足球,信心度不足 — 關鍵詞：车站 拨 足球,False,False,low
+P09_6056_front,front,6056,没事,感谢,1325,0.1105,没有1-1,慢1-1,因为1-1,为什么,False,False,感谢 没有1-1 慢1-1,信心度不足 — 關鍵詞：感谢 没有1-1 慢1-1,False,True,low
+P09_6105_front,front,6105,休息,休息,6105,0.8778,作业,对不起1-2,累,鞋,True,True,休息 作业 对不起1-2,抱歉，我還沒完成作業，需要先休息一下。,True,False,high
+P09_6149_front,front,6149,厕所,厕所,6149,0.1836,白,不,阿姨,可以,True,True,厕所 白 不,信心度不足 — 關鍵詞：厕所 白 不,False,False,low
+P09_6195_front,front,6195,香蕉,香蕉,6195,0.8231,肉,饺子,做,作业,True,True,香蕉 肉 饺子,香蕉、肉和餃子。,True,False,high
+P09_6230_front,front,6230,忧愁,忧愁,6230,0.7734,医生,学习1-1,聪明1-1,超市,True,True,忧愁 医生 学习1-1,醫生正在為學習的事情感到憂愁。,True,False,high
+P09_6254_front,front,6254,卖,坐,2732,0.2192,写字,卖,在,紧张,False,True,坐 写字 卖,信心度不足 — 關鍵詞：坐 写字 卖,False,False,low
+P09_6264_front,front,6264,爷爷,爷爷,6264,0.1541,渴,母亲,父亲,红,True,True,爷爷 渴 母亲,信心度不足 — 關鍵詞：爷爷 渴 母亲,False,False,low
+P09_6307_front,front,6307,下课,因为1-1,5780,0.1017,下课,8,什么,没事,False,True,因为1-1 下课 8,信心度不足 — 關鍵詞：因为1-1 下课 8,False,True,low
+P09_6343_front,front,6343,黄1-1,黄1-1,6343,0.2563,奶奶,牢记,晚上,知道,True,True,黄1-1 奶奶 牢记,黃奶奶一直牢記在心。,True,False,high
+P09_6363_front,front,6363,紧张,喂,2701,0.3303,站,咖啡,紧张,足球,False,True,喂 站 咖啡,喂，我站著喝咖啡。,True,False,high
+P09_6450_front,front,6450,他,他,6450,0.8937,明天,以后,可以,6,True,True,他 明天 以后,他明天之後會來。,True,False,high
+P09_6488_front,front,6488,教室,教导,1614,0.443,和,朋友,教室,对,False,True,教导 和 朋友,他正在教導朋友。,True,False,high
+P09_6526_front,front,6526,参加,参加,6526,0.5193,饺子,朋友,对,教导,True,True,参加 饺子 朋友,我和朋友一起參加了包餃子的活動。,True,False,high
+P09_6532_front,front,6532,足球,咖啡,5353,0.327,喂,足球,起床,拨,False,True,咖啡 喂 足球,我邊喝咖啡邊打電話聊足球賽事。,True,False,high
+P09_6571_front,front,6571,你们,你们,6571,0.2291,他们,我们,大家,多,True,True,你们 他们 我们,信心度不足 — 關鍵詞：你们 他们 我们,False,False,low
+P09_6618_front,front,6618,现在,身体,2386,0.4269,高兴,健康,现在,担心,False,True,身体 高兴 健康,身體健康，心情愉快。,True,False,high
+P09_6645_front,front,6645,蓝1-2,因为1-1,5780,0.0857,感谢,小,下课,小孩儿,False,False,因为1-1 感谢 小,信心度不足 — 關鍵詞：因为1-1 感谢 小,False,True,low
+P09_6654_front,front,6654,知道,容易,963,0.1464,知道,听,天空,黑,False,True,容易 知道 听,信心度不足 — 關鍵詞：容易 知道 听,False,True,low
+P09_0021_left,left,21,鸡,如果,2244,0.1876,奶奶,鸡,等,爷爷,False,True,如果 奶奶 鸡,信心度不足 — 關鍵詞：如果 奶奶 鸡,False,False,low
+P09_0071_left,left,71,跑,跑,71,0.9475,公园,所以1-1,散步,需要1-1,True,True,跑 公园 所以1-1,因為要去公園，所以我跑步過去。,True,False,high
+P09_0090_left,left,90,答案,答案,90,0.3091,鸡蛋,水果,食堂,医院,True,True,答案 鸡蛋 水果,答案是雞蛋和水果。,True,False,high
+P09_0109_left,left,109,什么,赌气,2680,0.1608,老师,什么,衣服,蓝1-2,False,True,赌气 老师 什么,信心度不足 — 關鍵詞：赌气 老师 什么,False,False,low
+P09_0145_left,left,145,9,5,5513,0.1157,6,他,可以,下课,False,False,5 6 他,信心度不足 — 關鍵詞：5 6 他,False,True,low
+P09_0165_left,left,165,水果,水果,165,0.7775,鸡蛋,答案,忧愁,累,True,True,水果 鸡蛋 答案,水果和雞蛋的答案已經有了。,True,False,high
+P09_0198_left,left,198,是,脏,5340,0.1275,没有1-1,失败1-1,为什么,慢1-1,False,False,脏 没有1-1 失败1-1,信心度不足 — 關鍵詞：脏 没有1-1 失败1-1,False,True,low
+P09_0246_left,left,246,拨,拨,246,0.7528,成功1-1,车站,爱,用,True,True,拨 成功1-1 车站,他順利地撥通了車站的電話。,True,False,high
+P09_0289_left,left,289,新1-1,写字,1270,0.4562,新1-1,坐,在,鞋,False,True,写字 新1-1 坐,他正坐著寫新的字。,True,False,high
+P09_0300_left,left,300,鱼,腹,5858,0.5723,鱼,需要1-1,饿,走,False,True,腹 鱼 需要1-1,魚的肚子需要被清理乾淨。,True,False,high
+P09_0356_left,left,356,菜,不,927,0.1809,菜,厕所,花,阿姨,False,True,不 菜 厕所,信心度不足 — 關鍵詞：不 菜 厕所,False,False,low
+P09_0369_left,left,369,慢1-1,来,603,0.1513,需要1-1,小,腿1-1,小孩儿,False,False,来 需要1-1 小,信心度不足 — 關鍵詞：来 需要1-1 小,False,False,low
+P09_0396_left,left,396,父亲,奶奶,3113,0.1984,爷爷,母亲,腻2-2,父亲,False,True,奶奶 爷爷 母亲,信心度不足 — 關鍵詞：奶奶 爷爷 母亲,False,False,low
+P09_0457_left,left,457,大寒,桌子,2346,0.1819,高兴,找,跑,大,False,False,桌子 高兴 找,信心度不足 — 關鍵詞：桌子 高兴 找,False,False,low
+P09_0477_left,left,477,快,慢1-1,369,0.131,今天,舒服,法国,饿,False,False,慢1-1 今天 舒服,信心度不足 — 關鍵詞：慢1-1 今天 舒服,False,True,low
+P09_0488_left,left,488,我们,我们,488,0.7056,你们,他们,大家,慢1-1,True,True,我们 你们 他们,我們、你們和他們都是這個大家庭的一份子。,True,False,high
+P09_0514_left,left,514,苹果,苹果,514,0.7818,对,担心,朋友,高兴,True,True,苹果 对 担心,蘋果對此感到擔心。,True,False,high
+P09_0526_left,left,526,学生,学生,526,0.5591,家,学校,椅子,面包,True,True,学生 家 学校,學生往返於家和學校之間。,True,False,high
+P09_0534_left,left,534,不同,玩1-1,5316,0.1235,找,跑,不同,拨,False,True,玩1-1 找 跑,信心度不足 — 關鍵詞：玩1-1 找 跑,False,True,low
+P09_0557_left,left,557,葡萄,葡萄,557,0.8681,脚1-1,香蕉,肉,担心,True,True,葡萄 脚1-1 香蕉,葡萄被腳踩到香蕉上了。,True,False,high
+P09_0603_left,left,603,来,大家,5599,0.3732,他们,给,散步,你们,False,False,大家 他们 给,他們給了大家。,True,False,high
+P09_0639_left,left,639,大雨,葡萄,557,0.3313,大雨,大雪,超市,但是1-1,False,True,葡萄 大雨 大雪,葡萄在大雨和大雪中成長。,True,False,high
+P09_0805_left,left,805,成功1-1,写字,1270,0.2143,新1-1,拨,玩1-1,干净,False,False,写字 新1-1 拨,信心度不足 — 關鍵詞：写字 新1-1 拨,False,False,low
+P09_0869_left,left,869,回家1-1,回家1-1,869,0.6841,同学1-1,豆腐1-1,食堂,跑,True,True,回家1-1 同学1-1 豆腐1-1,我回家和同學一起吃豆腐。,True,False,high
+P09_0927_left,left,927,不,但是1-1,930,0.2146,不,厕所,阿姨,多,False,True,但是1-1 不 厕所,信心度不足 — 關鍵詞：但是1-1 不 厕所,False,False,low
+P09_0930_left,left,930,但是1-1,花,2902,0.1902,好,菜,但是1-1,不,False,True,花 好 菜,信心度不足 — 關鍵詞：花 好 菜,False,False,low
+P09_0963_left,left,963,容易,谁,5637,0.073,喝,哥哥,牛奶,腻2-2,False,False,谁 喝 哥哥,信心度不足 — 關鍵詞：谁 喝 哥哥,False,True,low
+P09_0968_left,left,968,牛奶,牛奶,968,0.0942,谁,高,努力,黑,True,True,牛奶 谁 高,信心度不足 — 關鍵詞：牛奶 谁 高,False,True,low
+P09_1104_left,left,1104,同学1-1,豆腐1-1,1636,0.696,同学1-1,食堂,回家1-1,跑,False,True,豆腐1-1 同学1-1 食堂,豆腐是同學在食堂吃的。,True,False,high
+P09_1224_left,left,1224,早上1-1,文静,2206,0.1222,晚上,早上1-1,1,红,False,True,文静 晚上 早上1-1,信心度不足 — 關鍵詞：文静 晚上 早上1-1,False,True,low
+P09_1230_left,left,1230,6,什么,109,0.343,可以,衣服,英俊,水1-1,False,False,什么 可以 衣服,什麼樣的衣服可以穿呢？,True,False,high
+P09_1251_left,left,1251,学校,书包,3716,0.1217,学生,面包,家,眼镜,False,False,书包 学生 面包,信心度不足 — 關鍵詞：书包 学生 面包,False,True,low
+P09_1256_left,left,1256,找,找,1256,0.8796,用,银行,跑,水果,True,True,找 用 银行,我要去銀行辦點事情。,True,False,high
+P09_1270_left,left,1270,写字,新1-1,289,0.3926,写字,坐,在,紧张,False,True,新1-1 写字 坐,他正坐著寫字。,True,False,high
+P09_1284_left,left,1284,医院,医院,1284,0.3158,鸡蛋,水果,食堂,天空,True,True,医院 鸡蛋 水果,我從醫院帶了些雞蛋和水果回來。,True,False,high
+P09_1325_left,left,1325,感谢,感谢,1325,0.1651,好,没事,没有1-1,是,True,True,感谢 好 没事,信心度不足 — 關鍵詞：感谢 好 没事,False,False,low
+P09_1328_left,left,1328,忘记,医生,2102,0.2522,学习1-1,忘记,热1-2,土耳其,False,True,医生 学习1-1 忘记,醫生在學習的過程中忘記了。,True,False,high
+P09_1359_left,left,1359,阿姨,感谢,1325,0.2363,花,没事,但是1-1,有,False,False,感谢 花 没事,信心度不足 — 關鍵詞：感谢 花 没事,False,False,low
+P09_1406_left,left,1406,晚上,腻2-2,5253,0.4887,谁,晚上,牢记,奶奶,False,True,腻2-2 谁 晚上,究竟是誰在晚上感到如此厭煩呢？,True,False,high
+P09_1597_left,left,1597,老师,赌气,2680,0.2954,老师,衣服,什么,蓝1-2,False,True,赌气 老师 衣服,老師因為賭氣而弄髒了衣服。,True,False,high
+P09_1614_left,left,1614,教导,桌子,2346,0.2586,教导,大寒,对,苹果,False,True,桌子 教导 大寒,在桌子上教導大寒的知識。,True,False,high
+P09_1636_left,left,1636,豆腐1-1,豆腐1-1,1636,0.7571,同学1-1,跑,回家1-1,食堂,True,True,豆腐1-1 同学1-1 跑,豆腐同學跑走了。,True,False,high
+P09_1653_left,left,1653,牢记,牢记,1653,0.3022,谁,奶奶,腻2-2,努力,True,True,牢记 谁 奶奶,要牢記奶奶是誰。,True,False,high
+P09_1658_left,left,1658,10,可以,2498,0.1599,他,多,问,5,False,False,可以 他 多,信心度不足 — 關鍵詞：可以 他 多,False,False,low
+P09_1670_left,left,1670,少,鱼,300,0.1371,散步,找,跑,多,False,False,鱼 散步 找,信心度不足 — 關鍵詞：鱼 散步 找,False,True,low
+P09_1688_left,left,1688,坏,没事,6056,0.1913,因为1-1,但是1-1,没有1-1,感谢,False,False,没事 因为1-1 但是1-1,信心度不足 — 關鍵詞：没事 因为1-1 但是1-1,False,False,low
+P09_1747_left,left,1747,鸡蛋,鸡蛋,1747,0.7491,水果,医院,昨天,鸡,True,True,鸡蛋 水果 医院,雞蛋和水果都已經送到醫院了。,True,False,high
+P09_1752_left,left,1752,讲课1-1,讲课1-1,1752,0.3735,对不起1-2,公园,公司,豆腐1-1,True,True,讲课1-1 对不起1-2 公园,在公園講課時，我說了對不起。,True,False,high
+P09_1770_left,left,1770,今天,今天,1770,0.3506,饿,腹,没有1-1,也,True,True,今天 饿 腹,我今天肚子餓了。,True,False,high
+P09_1817_left,left,1817,聪明1-1,聪明1-1,1817,0.7384,医生,土耳其,等,热1-2,True,True,聪明1-1 医生 土耳其,那位聰明的醫生來自土耳其。,True,False,high
+P09_1818_left,left,1818,伯父,伯父,1818,0.4982,鼻,父亲,等,母亲,True,True,伯父 鼻 父亲,伯父的鼻子長得和父親很像。,True,False,high
+P09_1823_left,left,1823,超市,超市,1823,0.7929,银行,找,车站,葡萄,True,True,超市 银行 找,我在超市和銀行之間來回尋找。,True,False,high
+P09_1836_left,left,1836,鞋,鞋,1836,0.6228,写字,玩1-1,站,喂,True,True,鞋 写字 玩1-1,他寫完字後便去玩鞋子了。,True,False,high
+P09_1879_left,left,1879,水1-1,母亲,2832,0.3242,喜欢,紫,渴,父亲,False,False,母亲 喜欢 紫,母親喜歡紫色。,True,False,high
+P09_1887_left,left,1887,走,散步,2180,0.7422,走,给,大家,他们,False,True,散步 走 给,散步時走著走著就給了他。,True,False,high
+P09_1925_left,left,1925,你,需要1-1,5610,0.3759,少,鱼,快,小,False,False,需要1-1 少 鱼,需要的魚少了一條。,True,False,high
+P09_1928_left,left,1928,我,舒服,2648,0.2285,我,脏,也,失败1-1,False,True,舒服 我 脏,信心度不足 — 關鍵詞：舒服 我 脏,False,False,low
+P09_1955_left,left,1955,电影院,茶,2533,0.3604,参加,和,椅子,家,False,False,茶 参加 和,我參加了茶會。,True,False,high
+P09_1962_left,left,1962,考试1-2,考试1-2,1962,0.1939,起床,干净,累,写字,True,True,考试1-2 起床 干净,信心度不足 — 關鍵詞：考试1-2 起床 干净,False,False,low
+P09_2026_left,left,2026,大雪,树1-1,2678,0.3599,大雪,大雨,篮球,开始,False,True,树1-1 大雪 大雨,樹木在大雪和大雨中挺立著。,True,False,high
+P09_2039_left,left,2039,在,做,4870,0.3144,在,坐,紧张,写字,False,True,做 在 坐,他正在做著，然後坐了下來。,True,False,high
+P09_2069_left,left,2069,失败1-1,文静,2206,0.1915,努力,脏,失败1-1,晚上,False,True,文静 努力 脏,信心度不足 — 關鍵詞：文静 努力 脏,False,False,low
+P09_2092_left,left,2092,好,是,198,0.1932,但是1-1,紧张,快,感谢,False,False,是 但是1-1 紧张,信心度不足 — 關鍵詞：是 但是1-1 紧张,False,False,low
+P09_2102_left,left,2102,医生,学习1-1,4462,0.2532,忘记,医生,容易,热1-2,False,True,学习1-1 忘记 医生,學習過後卻又忘記了，真該去看看醫生了。,True,False,high
+P09_2130_left,left,2130,工作1-1,工作1-1,2130,0.4845,银行,用,香蕉,车站,True,True,工作1-1 银行 用,我在銀行工作。,True,False,high
+P09_2180_left,left,2180,散步,散步,2180,0.5753,给,大家,走,公园,True,True,散步 给 大家,我經常在散步時與大家分享見聞。,True,False,high
+P09_2201_left,left,2201,天空,谁,5637,0.218,容易,牢记,明天,牛奶,False,False,谁 容易 牢记,信心度不足 — 關鍵詞：谁 容易 牢记,False,False,low
+P09_2206_left,left,2206,文静,文静,2206,0.419,腻2-2,牛奶,努力,美,True,True,文静 腻2-2 牛奶,文靜覺得牛奶喝起來有些膩口。,True,False,high
+P09_2217_left,left,2217,英俊,紫,5736,0.0787,奶奶,来,母亲,努力,False,False,紫 奶奶 来,信心度不足 — 關鍵詞：紫 奶奶 来,False,True,low
+P09_2229_left,left,2229,健康,健康,2229,0.8973,怎样,开始,身体,书包,True,True,健康 怎样 开始,健康該如何開始呢？,True,False,high
+P09_2230_left,left,2230,以后,问,5800,0.1493,我们,他们,你们,英俊,False,False,问 我们 他们,信心度不足 — 關鍵詞：问 我们 他们,False,True,low
+P09_2244_left,left,2244,如果,鸡,21,0.1157,奶奶,饭,如果,母亲,False,True,鸡 奶奶 饭,信心度不足 — 關鍵詞：鸡 奶奶 饭,False,True,low
+P09_2257_left,left,2257,成绩,成绩,2257,0.2242,现在,坐,肉,高兴,True,True,成绩 现在 坐,信心度不足 — 關鍵詞：成绩 现在 坐,False,False,low
+P09_2346_left,left,2346,桌子,桌子,2346,0.6165,健康,高兴,教导,和,True,True,桌子 健康 高兴,身體健康讓人心情愉快，連桌子都彷彿跟著高興起來。,True,False,high
+P09_2386_left,left,2386,身体,身体,2386,0.3981,健康,高兴,桌子,担心,True,True,身体 健康 高兴,身體健康，我感到很高興。,True,False,high
+P09_2400_left,left,2400,站,站,2400,0.5351,喂,足球,起床,咖啡,True,True,站 喂 足球,他站著看足球比賽。,True,False,high
+P09_2407_left,left,2407,矮,饿,4249,0.2453,腹,今天,矮,脏,False,True,饿 腹 今天,信心度不足 — 關鍵詞：饿 腹 今天,False,False,low
+P09_2415_left,left,2415,说,腻2-2,5253,0.4042,奶奶,谁,努力,美,False,False,腻2-2 奶奶 谁,你最近和奶奶相處得怎麼樣？,True,False,high
+P09_2416_left,left,2416,担心,担心,2416,0.3781,高兴,现在,身体,不同,True,True,担心 高兴 现在,現在既擔心又高興。,True,False,high
+P09_2441_left,left,2441,他们,问,5800,0.1932,他们,你们,下课,以后,False,True,问 他们 你们,信心度不足 — 關鍵詞：问 他们 你们,False,False,low
+P09_2455_left,left,2455,累,累,2455,0.3457,紧张,在,对不起1-2,做,True,True,累 紧张 在,累積的緊張感一直存在著。,True,False,high
+P09_2462_left,left,2462,喜欢,哥哥,4002,0.2108,谁,喜欢,水果,腻2-2,False,True,哥哥 谁 喜欢,信心度不足 — 關鍵詞：哥哥 谁 喜欢,False,False,low
+P09_2488_left,left,2488,鼻,等,3735,0.146,奶奶,如果,鸡,喝,False,False,等 奶奶 如果,信心度不足 — 關鍵詞：等 奶奶 如果,False,True,low
+P09_2492_left,left,2492,食堂,食堂,2492,0.2765,回家1-1,医院,电影院,答案,True,True,食堂 回家1-1 医院,從食堂出來後，我先回了趟家，然後去了醫院。,True,False,high
+P09_2498_left,left,2498,可以,今天,1770,0.0882,饿,慢1-1,什么,有,False,False,今天 饿 慢1-1,信心度不足 — 關鍵詞：今天 饿 慢1-1,False,True,low
+P09_2505_left,left,2505,没有1-1,散步,2180,0.4686,给,需要1-1,大家,去,False,False,散步 给 需要1-1,散步是為了給予一對一的需要。,True,False,high
+P09_2533_left,left,2533,茶,帮助,5094,0.6784,成绩,拨,爱,朋友,False,False,帮助 成绩 拨,他幫助我提升了成績。,True,False,high
+P09_2535_left,left,2535,看1-1,看1-1,2535,0.2046,腻2-2,美,多,下课,True,True,看1-1 腻2-2 美,信心度不足 — 關鍵詞：看1-1 腻2-2 美,False,False,low
+P09_2558_left,left,2558,法国,法国,2558,0.3391,赌气,脏,渴,舒服,True,True,法国 赌气 脏,法國人一賭氣就把環境弄髒了。,True,False,high
+P09_2559_left,left,2559,土耳其,医生,2102,0.2997,土耳其,聪明1-1,热1-2,学习1-1,False,True,医生 土耳其 聪明1-1,那位醫生是土耳其人，而且非常聰明。,True,False,high
+P09_2598_left,left,2598,妹妹,睡觉,3185,0.1563,奶奶,如果,妹妹,鸡,False,True,睡觉 奶奶 如果,信心度不足 — 關鍵詞：睡觉 奶奶 如果,False,False,low
+P09_2648_left,left,2648,舒服,赌气,2680,0.1842,衣服,老师,渴,脏,False,False,赌气 衣服 老师,信心度不足 — 關鍵詞：赌气 衣服 老师,False,False,low
+P09_2659_left,left,2659,3,他,6450,0.1513,6,5,问,可以,False,False,他 6 5,信心度不足 — 關鍵詞：他 6 5,False,False,low
+P09_2676_left,left,2676,7,问,5800,0.1142,可以,5,他,妹妹,False,False,问 可以 5,信心度不足 — 關鍵詞：问 可以 5,False,True,low
+P09_2678_left,left,2678,树1-1,大雪,2026,0.5673,树1-1,大雨,怎样,回家1-1,False,True,大雪 树1-1 大雨,大雪過後，樹木又遭遇了大雨的沖刷。,True,False,high
+P09_2680_left,left,2680,赌气,舒服,2648,0.1262,蓝1-2,听,姐姐,可以,False,False,舒服 蓝1-2 听,信心度不足 — 關鍵詞：舒服 蓝1-2 听,False,True,low
+P09_2694_left,left,2694,2,问,5800,0.0846,他,可以,以后,5,False,False,问 他 可以,信心度不足 — 關鍵詞：问 他 可以,False,True,low
+P09_2701_left,left,2701,喂,足球,6532,0.3803,咖啡,对,喂,大,False,True,足球 咖啡 对,足球和咖啡是相對的。,True,False,high
+P09_2732_left,left,2732,坐,做,4870,0.2295,坐,在,紧张,作业,False,True,做 坐 在,信心度不足 — 關鍵詞：做 坐 在,False,False,low
+P09_2832_left,left,2832,母亲,母亲,2832,0.1534,喜欢,奶奶,红,爷爷,True,True,母亲 喜欢 奶奶,信心度不足 — 關鍵詞：母亲 喜欢 奶奶,False,False,low
+P09_2835_left,left,2835,衣服,法国,2558,0.1314,恐怕,脏,失败1-1,黄1-1,False,False,法国 恐怕 脏,信心度不足 — 關鍵詞：法国 恐怕 脏,False,True,low
+P09_2838_left,left,2838,公园,公园,2838,0.9285,跑,散步,找,下课,True,True,公园 跑 散步,在公園裡跑步和散步。,True,False,high
+P09_2853_left,left,2853,4,听,4691,0.2576,他,姐姐,妹妹,问,False,False,听 他 姐姐,他正在聽他姐姐說話。,True,False,high
+P09_2899_left,left,2899,热1-2,天空,2201,0.1938,牛奶,高,医院,忘记,False,False,天空 牛奶 高,信心度不足 — 關鍵詞：天空 牛奶 高,False,False,low
+P09_2902_left,left,2902,花,为什么,3492,0.1284,没有1-1,需要1-1,少,鱼,False,False,为什么 没有1-1 需要1-1,信心度不足 — 關鍵詞：为什么 没有1-1 需要1-1,False,True,low
+P09_2908_left,left,2908,饺子,饺子,2908,0.2493,肉,干净,教导,银行,True,True,饺子 肉 干净,信心度不足 — 關鍵詞：饺子 肉 干净,False,False,low
+P09_2913_left,left,2913,恐怕,老师,1597,0.302,脏,赌气,蓝1-2,法国,False,False,老师 脏 赌气,老師被弄髒了，正在賭氣。,True,False,high
+P09_2922_left,left,2922,努力,红,5855,0.1454,水1-1,渴,喜欢,父亲,False,False,红 水1-1 渴,信心度不足 — 關鍵詞：红 水1-1 渴,False,True,low
+P09_2961_left,left,2961,给,给,2961,0.2211,你,好,去,你们,True,True,给 你 好,信心度不足 — 關鍵詞：给 你 好,False,False,low
+P09_2985_left,left,2985,面包,桌子,2346,0.2038,面包,和,朋友,苹果,False,True,桌子 面包 和,信心度不足 — 關鍵詞：桌子 面包 和,False,False,low
+P09_3031_left,left,3031,抢,他们,2441,0.1544,努力,文静,谁,你们,False,False,他们 努力 文静,信心度不足 — 關鍵詞：他们 努力 文静,False,False,low
+P09_3113_left,left,3113,奶奶,奶奶,3113,0.1405,爷爷,睡觉,如果,鸡,True,True,奶奶 爷爷 睡觉,信心度不足 — 關鍵詞：奶奶 爷爷 睡觉,False,True,low
+P09_3149_left,left,3149,姐姐,伯父,1818,0.1675,父亲,等,如果,奶奶,False,False,伯父 父亲 等,信心度不足 — 關鍵詞：伯父 父亲 等,False,False,low
+P09_3185_left,left,3185,睡觉,睡觉,3185,0.1215,姐姐,妹妹,昨天,听,True,True,睡觉 姐姐 妹妹,信心度不足 — 關鍵詞：睡觉 姐姐 妹妹,False,True,low
+P09_3257_left,left,3257,腿1-1,腿1-1,3257,0.8966,现在,担心,需要1-1,身体,True,True,腿1-1 现在 担心,我現在很擔心我的腿。,True,False,high
+P09_3308_left,left,3308,开始,苹果,514,0.2037,大,对,担心,高兴,False,False,苹果 大 对,信心度不足 — 關鍵詞：苹果 大 对,False,False,low
+P09_3386_left,left,3386,起床,起床,3386,0.0748,喂,卖,用,咖啡,True,True,起床 喂 卖,信心度不足 — 關鍵詞：起床 喂 卖,False,True,low
+P09_3388_left,left,3388,饭,哥哥,4002,0.3095,爷爷,天空,谁,下课,False,False,哥哥 爷爷 天空,哥哥望著爺爺所指的天空。,True,False,high
+P09_3422_left,left,3422,篮球,大雪,2026,0.5909,香蕉,葡萄,篮球,怎样,False,True,大雪 香蕉 葡萄,大雪天裡，香蕉和葡萄都顯得格外可口。,True,False,high
+P09_3492_left,left,3492,为什么,鱼,300,0.2036,散步,走,去,需要1-1,False,False,鱼 散步 走,信心度不足 — 關鍵詞：鱼 散步 走,False,False,low
+P09_3504_left,left,3504,喝,奶奶,3113,0.2051,喝,牢记,容易,鸡,False,True,奶奶 喝 牢记,信心度不足 — 關鍵詞：奶奶 喝 牢记,False,False,low
+P09_3609_left,left,3609,大,不同,534,0.2697,大,朋友,爱,拨,False,True,不同 大 朋友,這些朋友們的年齡各不相同。,True,False,high
+P09_3672_left,left,3672,爱,足球,6532,0.1646,对,朋友,咖啡,对不起1-2,False,False,足球 对 朋友,信心度不足 — 關鍵詞：足球 对 朋友,False,False,low
+P09_3703_left,left,3703,去,鱼,300,0.1029,给,多,散步,腹,False,False,鱼 给 多,信心度不足 — 關鍵詞：鱼 给 多,False,True,low
+P09_3716_left,left,3716,书包,书包,3716,0.7344,眼镜,大雨,开朗,怎样,True,True,书包 眼镜 大雨,書包和眼鏡都被大雨淋濕了。,True,False,high
+P09_3735_left,left,3735,等,等,3735,0.1682,如果,鸡,奶奶,以前,True,True,等 如果 鸡,信心度不足 — 關鍵詞：等 如果 鸡,False,False,low
+P09_3789_left,left,3789,银行,香蕉,6195,0.1951,苹果,肉,朋友,桌子,False,False,香蕉 苹果 肉,信心度不足 — 關鍵詞：香蕉 苹果 肉,False,False,low
+P09_3993_left,left,3993,买,买,3993,0.2793,写字,肉,鞋,新1-1,True,True,买 写字 肉,我去買肉，順便寫字。,True,False,high
+P09_4002_left,left,4002,哥哥,哥哥,4002,0.553,弟弟,谁,牢记,奶奶,True,True,哥哥 弟弟 谁,哥哥和弟弟是誰呢？,True,False,high
+P09_4027_left,left,4027,黑,黑,4027,0.1678,热1-2,土耳其,聪明1-1,天空,True,True,黑 热1-2 土耳其,信心度不足 — 關鍵詞：黑 热1-2 土耳其,False,False,low
+P09_4073_left,left,4073,脚1-1,朋友,5008,0.2579,苹果,高兴,对,桌子,False,False,朋友 苹果 高兴,朋友收到了蘋果，感到很高興。,True,False,high
+P09_4102_left,left,4102,多,给,2961,0.0752,但是1-1,快,散步,多,False,True,给 但是1-1 快,信心度不足 — 關鍵詞：给 但是1-1 快,False,True,low
+P09_4113_left,left,4113,以前,舒服,2648,0.1232,听,妹妹,他,问,False,False,舒服 听 妹妹,信心度不足 — 關鍵詞：舒服 听 妹妹,False,True,low
+P09_4249_left,left,4249,饿,腹,5858,0.4497,舒服,饿,鱼,矮,False,True,腹 舒服 饿,我的肚子不太舒服，而且有點餓。,True,False,high
+P09_4270_left,left,4270,肉,和,5478,0.1592,朋友,大寒,苹果,家,False,False,和 朋友 大寒,信心度不足 — 關鍵詞：和 朋友 大寒,False,False,low
+P09_4349_left,left,4349,对,苹果,514,0.1489,对,朋友,大寒,累,False,True,苹果 对 朋友,信心度不足 — 關鍵詞：苹果 对 朋友,False,True,low
+P09_4462_left,left,4462,学习1-1,医生,2102,0.2521,忘记,学习1-1,土耳其,容易,False,True,医生 忘记 学习1-1,醫生忘記了要學習。,True,False,high
+P09_4466_left,left,4466,昨天,母亲,2832,0.1502,紫,昨天,爷爷,伯父,False,True,母亲 紫 昨天,信心度不足 — 關鍵詞：母亲 紫 昨天,False,False,low
+P09_4485_left,left,4485,白,矮,2407,0.114,4,6,3,2,False,False,矮 4 6,信心度不足 — 關鍵詞：矮 4 6,False,True,low
+P09_4486_left,left,4486,小孩儿,舒服,2648,0.224,慢1-1,失败1-1,也,他,False,False,舒服 慢1-1 失败1-1,信心度不足 — 關鍵詞：舒服 慢1-1 失败1-1,False,False,low
+P09_4525_left,left,4525,怎样,同学1-1,1104,0.1319,回家1-1,食堂,怎样,豆腐1-1,False,True,同学1-1 回家1-1 食堂,信心度不足 — 關鍵詞：同学1-1 回家1-1 食堂,False,True,low
+P09_4542_left,left,4542,明天,牛奶,968,0.3295,黑,谁,热1-2,忘记,False,False,牛奶 黑 谁,是誰把牛奶弄黑了？,True,False,high
+P09_4691_left,left,4691,听,黑,4027,0.3965,听,问,热1-2,小孩儿,False,True,黑 听 问,他剛才聽到後便開口詢問。,True,False,high
+P09_4870_left,left,4870,做,做,4870,0.5303,在,坐,紧张,作业,True,True,做 在 坐,他正在做著，然後坐了下來。,True,False,high
+P09_4871_left,left,4871,美,腻2-2,5253,0.0731,谁,奶奶,爷爷,美,False,True,腻2-2 谁 奶奶,信心度不足 — 關鍵詞：腻2-2 谁 奶奶,False,True,low
+P09_4878_left,left,4878,干净,新1-1,289,0.4375,写字,紧张,干净,玩1-1,False,True,新1-1 写字 紧张,第一次寫字時，我感到很緊張。,True,False,high
+P09_4904_left,left,4904,公司,公司,4904,0.668,公园,讲课1-1,忧愁,努力,True,True,公司 公园 讲课1-1,公司在公園裡進行了一場講座。,True,False,high
+P09_4910_left,left,4910,有,需要1-1,5610,0.3854,鱼,散步,小,小孩儿,False,False,需要1-1 鱼 散步,我需要一條魚去散步。,True,False,high
+P09_4944_left,left,4944,眼镜,眼镜,4944,0.2776,书包,大雨,葡萄,怎样,True,True,眼镜 书包 大雨,眼鏡和書包都被大雨淋濕了。,True,False,high
+P09_4967_left,left,4967,所以1-1,衣服,2835,0.23,我们,你们,恐怕,努力,False,False,衣服 我们 你们,信心度不足 — 關鍵詞：衣服 我们 你们,False,False,low
+P09_4979_left,left,4979,弟弟,等,3735,0.2683,如果,鸡,妹妹,弟弟,False,True,等 如果 鸡,如果等到雞的話。,True,False,high
+P09_5008_left,left,5008,朋友,苹果,514,0.3747,高兴,肉,桌子,朋友,False,True,苹果 高兴 肉,吃蘋果和吃肉都讓人很高興。,True,False,high
+P09_5022_left,left,5022,用,用,5022,0.6372,卖,累,工作1-1,银行,True,True,用 卖 累,用賣東西來維持生計真的很累。,True,False,high
+P09_5086_left,left,5086,也,也,5086,0.2354,走,散步,小孩儿,小,True,True,也 走 散步,信心度不足 — 關鍵詞：也 走 散步,False,False,low
+P09_5094_left,left,5094,帮助,桌子,2346,0.1983,苹果,高兴,大,朋友,False,False,桌子 苹果 高兴,信心度不足 — 關鍵詞：桌子 苹果 高兴,False,False,low
+P09_5253_left,left,5253,腻2-2,谁,5637,0.1819,奶奶,牢记,爷爷,哥哥,False,False,谁 奶奶 牢记,信心度不足 — 關鍵詞：谁 奶奶 牢记,False,False,low
+P09_5311_left,left,5311,对不起1-2,对不起1-2,5311,0.3889,玩1-1,紧张,答案,鸡蛋,True,True,对不起1-2 玩1-1 紧张,對不起，我剛才玩的時候太緊張了。,True,False,high
+P09_5316_left,left,5316,玩1-1,玩1-1,5316,0.4897,对不起1-2,干净,公园,喂,True,True,玩1-1 对不起1-2 干净,我玩的時候不小心弄髒了，真是對不起，我會把它弄乾淨的。,True,False,high
+P09_5340_left,left,5340,脏,什么,109,0.1395,可以,水1-1,红,听,False,False,什么 可以 水1-1,信心度不足 — 關鍵詞：什么 可以 水1-1,False,True,low
+P09_5353_left,left,5353,咖啡,足球,6532,0.3097,对,咖啡,朋友,苹果,False,True,足球 对 咖啡,足球與咖啡相對。,True,False,high
+P09_5466_left,left,5466,图书馆,图书馆,5466,0.6372,开朗,大寒,开始,苹果,True,True,图书馆 开朗 大寒,圖書館裡氣氛開朗，驅散了大寒時節的寒意。,True,False,high
+P09_5471_left,left,5471,小,鱼,300,0.4635,需要1-1,少,去,没有1-1,False,False,鱼 需要1-1 少,魚的需求量減少了。,True,False,high
+P09_5478_left,left,5478,和,面包,2985,0.2911,和,家,椅子,脚1-1,False,True,面包 和 家,麵包和家都在這裡。,True,False,high
+P09_5504_left,left,5504,1,10,1658,0.0903,1,可以,是,7,False,True,10 1 可以,信心度不足 — 關鍵詞：10 1 可以,False,True,low
+P09_5513_left,left,5513,5,他,6450,0.2688,舒服,慢1-1,文静,渴,False,False,他 舒服 慢1-1,他現在感覺很舒服，所以動作也跟著慢了下來。,True,False,high
+P09_5575_left,left,5575,8,什么,109,0.3234,衣服,可以,英俊,没事,False,False,什么 衣服 可以,什麼樣的衣服才可以呢？,True,False,high
+P09_5599_left,left,5599,大家,大家,5599,0.7286,给,去,我们,他们,True,True,大家 给 去,大家都給出去了。,True,False,high
+P09_5610_left,left,5610,需要1-1,需要1-1,5610,0.1068,没有1-1,快,因为1-1,为什么,True,True,需要1-1 没有1-1 快,信心度不足 — 關鍵詞：需要1-1 没有1-1 快,False,True,low
+P09_5637_left,left,5637,谁,腻2-2,5253,0.3005,谁,牛奶,牢记,奶奶,False,True,腻2-2 谁 牛奶,那瓶牛奶究竟是誰喝膩了呢？,True,False,high
+P09_5651_left,left,5651,作业,作业,5651,0.7292,做,紧张,银行,写字,True,True,作业 做 紧张,做作業讓我感到緊張。,True,False,high
+P09_5698_left,left,5698,开朗,开朗,5698,0.2042,大寒,大雪,椅子,家,True,True,开朗 大寒 大雪,信心度不足 — 關鍵詞：开朗 大寒 大雪,False,False,low
+P09_5716_left,left,5716,高兴,桌子,2346,0.2631,高兴,大寒,担心,苹果,False,True,桌子 高兴 大寒,大寒這天，桌子顯得格外高興。,True,False,high
+P09_5726_left,left,5726,家,家,5726,0.1401,椅子,面包,肉,学生,True,True,家 椅子 面包,信心度不足 — 關鍵詞：家 椅子 面包,False,True,low
+P09_5736_left,left,5736,紫,爷爷,6264,0.3849,红,水1-1,喜欢,黄1-1,False,False,爷爷 红 水1-1,爺爺把水染紅了。,True,False,high
+P09_5753_left,left,5753,椅子,家,5726,0.2542,椅子,面包,学校,怎样,False,True,家 椅子 面包,家裡的椅子上放著麵包。,True,False,high
+P09_5780_left,left,5780,因为1-1,是,198,0.1307,因为1-1,但是1-1,好,下课,False,True,是 因为1-1 但是1-1,信心度不足 — 關鍵詞：是 因为1-1 但是1-1,False,True,low
+P09_5781_left,left,5781,高,高,5781,0.3526,黑,弟弟,哥哥,热1-2,True,True,高 黑 弟弟,弟弟長得又高又黑。,True,False,high
+P09_5800_left,left,5800,问,问,5800,0.0944,所以1-1,腻2-2,明天,7,True,True,问 所以1-1 腻2-2,信心度不足 — 關鍵詞：问 所以1-1 腻2-2,False,True,low
+P09_5807_left,left,5807,渴,喜欢,2462,0.2036,渴,父亲,红,伯父,False,True,喜欢 渴 父亲,信心度不足 — 關鍵詞：喜欢 渴 父亲,False,False,low
+P09_5855_left,left,5855,红,红,5855,0.1497,父亲,伯父,喜欢,渴,True,True,红 父亲 伯父,信心度不足 — 關鍵詞：红 父亲 伯父,False,True,low
+P09_5858_left,left,5858,腹,腹,5858,0.5654,饿,今天,矮,鱼,True,True,腹 饿 今天,我今天肚子餓了。,True,False,high
+P09_5894_left,left,5894,车站,车站,5894,0.7801,成功1-1,爱,对不起1-2,答案,True,True,车站 成功1-1 爱,在車站成功相遇後，我們便墜入了愛河。,True,False,high
+P09_6056_left,left,6056,没事,小,5471,0.1478,感谢,有,下课,慢1-1,False,False,小 感谢 有,信心度不足 — 關鍵詞：小 感谢 有,False,True,low
+P09_6105_left,left,6105,休息,休息,6105,0.8689,学生,书包,新1-1,爷爷,True,True,休息 学生 书包,學生休息時放下了書包。,True,False,high
+P09_6149_left,left,6149,厕所,厕所,6149,0.1707,阿姨,白,鼻,可以,True,True,厕所 阿姨 白,信心度不足 — 關鍵詞：厕所 阿姨 白,False,False,low
+P09_6195_left,left,6195,香蕉,脚1-1,4073,0.2255,肉,香蕉,面包,和,False,True,脚1-1 肉 香蕉,信心度不足 — 關鍵詞：脚1-1 肉 香蕉,False,False,low
+P09_6230_left,left,6230,忧愁,忧愁,6230,0.6712,容易,学习1-1,公司,忘记,True,True,忧愁 容易 学习1-1,憂愁是容易學習的。,True,False,high
+P09_6254_left,left,6254,卖,玩1-1,5316,0.3054,卖,鞋,干净,写字,False,True,玩1-1 卖 鞋,他在玩的時候賣掉了鞋子。,True,False,high
+P09_6264_left,left,6264,爷爷,妹妹,2598,0.1324,紫,问,如果,睡觉,False,False,妹妹 紫 问,信心度不足 — 關鍵詞：妹妹 紫 问,False,True,low
+P09_6307_left,left,6307,下课,因为1-1,5780,0.1071,是,文静,感谢,为什么,False,False,因为1-1 是 文静,信心度不足 — 關鍵詞：因为1-1 是 文静,False,True,low
+P09_6343_left,left,6343,黄1-1,父亲,396,0.1829,喜欢,红,渴,伯父,False,False,父亲 喜欢 红,信心度不足 — 關鍵詞：父亲 喜欢 红,False,False,low
+P09_6363_left,left,6363,紧张,站,2400,0.2967,紧张,足球,拨,喂,False,True,站 紧张 足球,他站著看足球賽時顯得有些緊張。,True,False,high
+P09_6450_left,left,6450,他,2,2694,0.1199,10,3,可以,4,False,False,2 10 3,信心度不足 — 關鍵詞：2 10 3,False,True,low
+P09_6488_left,left,6488,教室,大寒,457,0.6948,开朗,大,桌子,担心,False,False,大寒 开朗 大,大寒的性格十分開朗大方。,True,False,high
+P09_6526_left,left,6526,参加,朋友,5008,0.0806,爱,足球,帮助,成绩,False,False,朋友 爱 足球,信心度不足 — 關鍵詞：朋友 爱 足球,False,True,low
+P09_6532_left,left,6532,足球,喂,2701,0.2158,咖啡,站,紧张,足球,False,True,喂 咖啡 站,信心度不足 — 關鍵詞：喂 咖啡 站,False,False,low
+P09_6571_left,left,6571,你们,你们,6571,0.2509,下课,他们,你,是,True,True,你们 下课 他们,你們下課後，他們才來。,True,False,high
+P09_6618_left,left,6618,现在,现在,6618,0.2741,身体,高兴,健康,新1-1,True,True,现在 身体 高兴,現在我的身體感到非常高興。,True,False,high
+P09_6645_left,left,6645,蓝1-2,老师,1597,0.3986,脏,蓝1-2,赌气,快,False,True,老师 脏 蓝1-2,老師的藍色衣服被弄髒了。,True,False,high
+P09_6654_left,left,6654,知道,容易,963,0.0998,爷爷,知道,哥哥,学习1-1,False,True,容易 爷爷 知道,信心度不足 — 關鍵詞：容易 爷爷 知道,False,True,low

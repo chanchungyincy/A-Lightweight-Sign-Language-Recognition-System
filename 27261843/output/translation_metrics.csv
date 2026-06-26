@@ -1,0 +1,2 @@
+n_evaluated,meteor_pct,keyword_hit_pct,corpus_bleu,model_top1_pct,model_top5_pct,front_top1_pct,left_top1_pct,avg_latency_s,total_llm_calls,total_llm_time_s,pct_under_3s
+228,21.9,83.77,0.0,45.5,75.5,55.0,36.0,1.24,228,282,100.0

@@ -1,0 +1,7 @@
+﻿sample_id,true_gloss,top1_pred,top1_correct,top5_correct,keywords,sentence
+P09_2069_front,失败1-1,衣服,False,False,衣服 你 书包,你的衣服在書包裡嗎？
+P09_4944_left,眼镜,高,False,False,高 大寒 和,大寒和高和嗎？
+P09_5504_front,1,8,False,False,8 因为1-1 文静,8月1日因為文靜嗎？
+P09_0246_front,拨,散步,False,False,散步 问 所以1-1,所以1-1問散步？
+P09_2400_left,站,高,False,False,高 怎样 努力,怎樣努力才能變高？
+P09_5894_left,车站,英俊,False,False,英俊 喝 黄1-1,他英俊地喝著黃酒。

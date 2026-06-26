@@ -1,0 +1,4 @@
+sentence_id,target_sentence,top1_gloss_sequence,llm_translation
+0,母親買麵包,母亲 买 面包,這是一句測試生成的中文手語翻譯。
+1,老師幫助學生,老师 帮助 学生,這是一句測試生成的中文手語翻譯。
+2,我去醫院看病,我 去 医院 看病,這是一句測試生成的中文手語翻譯。

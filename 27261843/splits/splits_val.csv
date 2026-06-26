@@ -1,0 +1,401 @@
+sample_id,gloss_id,gloss_zh,gloss_en,signer_id,view,n_frames,path,split
+P09_0021_front,0021,鸡,Chicken,09,front,10,extracted/Participant_09/front/0021,val
+P09_0071_front,0071,跑,Run,09,front,17,extracted/Participant_09/front/0071,val
+P09_0090_front,0090,答案,Answer,09,front,17,extracted/Participant_09/front/0090,val
+P09_0109_front,0109,什么,What,09,front,8,extracted/Participant_09/front/0109,val
+P09_0145_front,0145,9,Nine,09,front,10,extracted/Participant_09/front/0145,val
+P09_0165_front,0165,水果,Fruit,09,front,15,extracted/Participant_09/front/0165,val
+P09_0198_front,0198,是,Yes,09,front,6,extracted/Participant_09/front/0198,val
+P09_0246_front,0246,拨,Dial,09,front,11,extracted/Participant_09/front/0246,val
+P09_0289_front,0289,新1-1,New (sign 1-1),09,front,15,extracted/Participant_09/front/0289,val
+P09_0300_front,0300,鱼,Fish,09,front,10,extracted/Participant_09/front/0300,val
+P09_0356_front,0356,菜,Vegetable,09,front,13,extracted/Participant_09/front/0356,val
+P09_0369_front,0369,慢1-1,Slow (sign 1-1),09,front,12,extracted/Participant_09/front/0369,val
+P09_0396_front,0396,父亲,Father,09,front,10,extracted/Participant_09/front/0396,val
+P09_0457_front,0457,大寒,Great Cold (solar term),09,front,15,extracted/Participant_09/front/0457,val
+P09_0477_front,0477,快,Fast,09,front,15,extracted/Participant_09/front/0477,val
+P09_0488_front,0488,我们,We,09,front,17,extracted/Participant_09/front/0488,val
+P09_0514_front,0514,苹果,Apple,09,front,15,extracted/Participant_09/front/0514,val
+P09_0526_front,0526,学生,Student,09,front,15,extracted/Participant_09/front/0526,val
+P09_0534_front,0534,不同,Different,09,front,14,extracted/Participant_09/front/0534,val
+P09_0557_front,0557,葡萄,Grape,09,front,17,extracted/Participant_09/front/0557,val
+P09_0603_front,0603,来,Come,09,front,15,extracted/Participant_09/front/0603,val
+P09_0639_front,0639,大雨,Heavy rain,09,front,14,extracted/Participant_09/front/0639,val
+P09_0805_front,0805,成功1-1,Succeed (sign 1-1),09,front,10,extracted/Participant_09/front/0805,val
+P09_0869_front,0869,回家1-1,Go home (sign 1-1),09,front,15,extracted/Participant_09/front/0869,val
+P09_0927_front,0927,不,No,09,front,14,extracted/Participant_09/front/0927,val
+P09_0930_front,0930,但是1-1,But (sign 1-1),09,front,13,extracted/Participant_09/front/0930,val
+P09_0963_front,0963,容易,Easy,09,front,9,extracted/Participant_09/front/0963,val
+P09_0968_front,0968,牛奶,Milk,09,front,20,extracted/Participant_09/front/0968,val
+P09_1104_front,1104,同学1-1,Classmate (sign 1-1),09,front,15,extracted/Participant_09/front/1104,val
+P09_1224_front,1224,早上1-1,Morning (sign 1-1),09,front,12,extracted/Participant_09/front/1224,val
+P09_1230_front,1230,6,Six,09,front,10,extracted/Participant_09/front/1230,val
+P09_1251_front,1251,学校,School,09,front,12,extracted/Participant_09/front/1251,val
+P09_1256_front,1256,找,Look for,09,front,12,extracted/Participant_09/front/1256,val
+P09_1270_front,1270,写字,Write,09,front,15,extracted/Participant_09/front/1270,val
+P09_1284_front,1284,医院,Hospital,09,front,15,extracted/Participant_09/front/1284,val
+P09_1325_front,1325,感谢,Thank,09,front,12,extracted/Participant_09/front/1325,val
+P09_1328_front,1328,忘记,Forget,09,front,15,extracted/Participant_09/front/1328,val
+P09_1359_front,1359,阿姨,Aunt,09,front,20,extracted/Participant_09/front/1359,val
+P09_1406_front,1406,晚上,Evening,09,front,15,extracted/Participant_09/front/1406,val
+P09_1597_front,1597,老师,Teacher,09,front,12,extracted/Participant_09/front/1597,val
+P09_1614_front,1614,教导,Teach,09,front,15,extracted/Participant_09/front/1614,val
+P09_1636_front,1636,豆腐1-1,Tofu (sign 1-1),09,front,22,extracted/Participant_09/front/1636,val
+P09_1653_front,1653,牢记,Keep firmly in mind,09,front,15,extracted/Participant_09/front/1653,val
+P09_1658_front,1658,10,Ten,09,front,10,extracted/Participant_09/front/1658,val
+P09_1670_front,1670,少,Little,09,front,9,extracted/Participant_09/front/1670,val
+P09_1688_front,1688,坏,Bad,09,front,12,extracted/Participant_09/front/1688,val
+P09_1747_front,1747,鸡蛋,Egg,09,front,15,extracted/Participant_09/front/1747,val
+P09_1752_front,1752,讲课1-1,Teach (sign 1-1),09,front,20,extracted/Participant_09/front/1752,val
+P09_1770_front,1770,今天,Today,09,front,15,extracted/Participant_09/front/1770,val
+P09_1817_front,1817,聪明1-1,Clever (sign 1-1),09,front,10,extracted/Participant_09/front/1817,val
+P09_1818_front,1818,伯父,Uncle (father's brother),09,front,14,extracted/Participant_09/front/1818,val
+P09_1823_front,1823,超市,Supermarket,09,front,16,extracted/Participant_09/front/1823,val
+P09_1836_front,1836,鞋,Shoe,09,front,12,extracted/Participant_09/front/1836,val
+P09_1879_front,1879,水1-1,Water (sign 1-1),09,front,12,extracted/Participant_09/front/1879,val
+P09_1887_front,1887,走,Walk,09,front,12,extracted/Participant_09/front/1887,val
+P09_1925_front,1925,你,You,09,front,12,extracted/Participant_09/front/1925,val
+P09_1928_front,1928,我,I,09,front,12,extracted/Participant_09/front/1928,val
+P09_1955_front,1955,电影院,Cinema,09,front,14,extracted/Participant_09/front/1955,val
+P09_1962_front,1962,考试1-2,Examination (sign 1-2),09,front,15,extracted/Participant_09/front/1962,val
+P09_2026_front,2026,大雪,Heavy Snow (solar term),09,front,17,extracted/Participant_09/front/2026,val
+P09_2039_front,2039,在,Be (in,09,front,12,extracted/Participant_09/front/2039,val
+P09_2069_front,2069,失败1-1,Fail (sign 1-1),09,front,6,extracted/Participant_09/front/2069,val
+P09_2092_front,2092,好,Good,09,front,12,extracted/Participant_09/front/2092,val
+P09_2102_front,2102,医生,Doctor,09,front,12,extracted/Participant_09/front/2102,val
+P09_2130_front,2130,工作1-1,Work (sign 1-1),09,front,12,extracted/Participant_09/front/2130,val
+P09_2180_front,2180,散步,Take a walk,09,front,11,extracted/Participant_09/front/2180,val
+P09_2201_front,2201,天空,Sky,09,front,15,extracted/Participant_09/front/2201,val
+P09_2206_front,2206,文静,Gentle and quiet,09,front,17,extracted/Participant_09/front/2206,val
+P09_2217_front,2217,英俊,Handsome,09,front,12,extracted/Participant_09/front/2217,val
+P09_2229_front,2229,健康,Health,09,front,12,extracted/Participant_09/front/2229,val
+P09_2230_front,2230,以后,After,09,front,12,extracted/Participant_09/front/2230,val
+P09_2244_front,2244,如果,If,09,front,10,extracted/Participant_09/front/2244,val
+P09_2257_front,2257,成绩,Grade,09,front,13,extracted/Participant_09/front/2257,val
+P09_2346_front,2346,桌子,Table,09,front,15,extracted/Participant_09/front/2346,val
+P09_2386_front,2386,身体,Body,09,front,9,extracted/Participant_09/front/2386,val
+P09_2400_front,2400,站,Stand,09,front,10,extracted/Participant_09/front/2400,val
+P09_2407_front,2407,矮,Short,09,front,20,extracted/Participant_09/front/2407,val
+P09_2415_front,2415,说,Say,09,front,15,extracted/Participant_09/front/2415,val
+P09_2416_front,2416,担心,Worry,09,front,14,extracted/Participant_09/front/2416,val
+P09_2441_front,2441,他们,They,09,front,15,extracted/Participant_09/front/2441,val
+P09_2455_front,2455,累,Tired,09,front,12,extracted/Participant_09/front/2455,val
+P09_2462_front,2462,喜欢,Like,09,front,15,extracted/Participant_09/front/2462,val
+P09_2488_front,2488,鼻,Nose,09,front,15,extracted/Participant_09/front/2488,val
+P09_2492_front,2492,食堂,Canteen,09,front,6,extracted/Participant_09/front/2492,val
+P09_2498_front,2498,可以,Can,09,front,15,extracted/Participant_09/front/2498,val
+P09_2505_front,2505,没有1-1,There is no... (sign 1-1),09,front,12,extracted/Participant_09/front/2505,val
+P09_2533_front,2533,茶,Tea,09,front,16,extracted/Participant_09/front/2533,val
+P09_2535_front,2535,看1-1,Look (sign 1-1),09,front,15,extracted/Participant_09/front/2535,val
+P09_2558_front,2558,法国,France,09,front,20,extracted/Participant_09/front/2558,val
+P09_2559_front,2559,土耳其,Turkey,09,front,15,extracted/Participant_09/front/2559,val
+P09_2598_front,2598,妹妹,Younger sister,09,front,15,extracted/Participant_09/front/2598,val
+P09_2648_front,2648,舒服,Comfortable,09,front,17,extracted/Participant_09/front/2648,val
+P09_2659_front,2659,3,Three,09,front,10,extracted/Participant_09/front/2659,val
+P09_2676_front,2676,7,Seven,09,front,10,extracted/Participant_09/front/2676,val
+P09_2678_front,2678,树1-1,Tree (sign 1-1),09,front,12,extracted/Participant_09/front/2678,val
+P09_2680_front,2680,赌气,Be angry out of spite,09,front,17,extracted/Participant_09/front/2680,val
+P09_2694_front,2694,2,Two,09,front,12,extracted/Participant_09/front/2694,val
+P09_2701_front,2701,喂,Hello,09,front,15,extracted/Participant_09/front/2701,val
+P09_2732_front,2732,坐,Sit,09,front,12,extracted/Participant_09/front/2732,val
+P09_2832_front,2832,母亲,Mother,09,front,10,extracted/Participant_09/front/2832,val
+P09_2835_front,2835,衣服,Clothes,09,front,15,extracted/Participant_09/front/2835,val
+P09_2838_front,2838,公园,Park,09,front,15,extracted/Participant_09/front/2838,val
+P09_2853_front,2853,4,Four,09,front,10,extracted/Participant_09/front/2853,val
+P09_2899_front,2899,热1-2,Heat (sign 1-2),09,front,8,extracted/Participant_09/front/2899,val
+P09_2902_front,2902,花,Flower,09,front,10,extracted/Participant_09/front/2902,val
+P09_2908_front,2908,饺子,Dumpling,09,front,12,extracted/Participant_09/front/2908,val
+P09_2913_front,2913,恐怕,I'm afraid,09,front,15,extracted/Participant_09/front/2913,val
+P09_2922_front,2922,努力,Effort,09,front,15,extracted/Participant_09/front/2922,val
+P09_2961_front,2961,给,Give,09,front,12,extracted/Participant_09/front/2961,val
+P09_2985_front,2985,面包,Bread,09,front,10,extracted/Participant_09/front/2985,val
+P09_3031_front,3031,抢,Rob,09,front,9,extracted/Participant_09/front/3031,val
+P09_3113_front,3113,奶奶,Grandma,09,front,17,extracted/Participant_09/front/3113,val
+P09_3149_front,3149,姐姐,Elder sister,09,front,15,extracted/Participant_09/front/3149,val
+P09_3185_front,3185,睡觉,Sleep,09,front,15,extracted/Participant_09/front/3185,val
+P09_3257_front,3257,腿1-1,Leg1-1,09,front,15,extracted/Participant_09/front/3257,val
+P09_3308_front,3308,开始,Start,09,front,15,extracted/Participant_09/front/3308,val
+P09_3386_front,3386,起床,Get up,09,front,9,extracted/Participant_09/front/3386,val
+P09_3388_front,3388,饭,Meal,09,front,20,extracted/Participant_09/front/3388,val
+P09_3422_front,3422,篮球,Basketball,09,front,17,extracted/Participant_09/front/3422,val
+P09_3492_front,3492,为什么,Why,09,front,15,extracted/Participant_09/front/3492,val
+P09_3504_front,3504,喝,Drink,09,front,12,extracted/Participant_09/front/3504,val
+P09_3609_front,3609,大,Big,09,front,13,extracted/Participant_09/front/3609,val
+P09_3672_front,3672,爱,Love,09,front,20,extracted/Participant_09/front/3672,val
+P09_3703_front,3703,去,Go,09,front,10,extracted/Participant_09/front/3703,val
+P09_3716_front,3716,书包,Schoolbag,09,front,17,extracted/Participant_09/front/3716,val
+P09_3735_front,3735,等,Wait,09,front,14,extracted/Participant_09/front/3735,val
+P09_3789_front,3789,银行,Bank,09,front,12,extracted/Participant_09/front/3789,val
+P09_3993_front,3993,买,Buy,09,front,12,extracted/Participant_09/front/3993,val
+P09_4002_front,4002,哥哥,Elder brother,09,front,17,extracted/Participant_09/front/4002,val
+P09_4027_front,4027,黑,Black,09,front,12,extracted/Participant_09/front/4027,val
+P09_4073_front,4073,脚1-1,Foot (sign 1-1),09,front,15,extracted/Participant_09/front/4073,val
+P09_4102_front,4102,多,Many,09,front,20,extracted/Participant_09/front/4102,val
+P09_4113_front,4113,以前,Before,09,front,12,extracted/Participant_09/front/4113,val
+P09_4249_front,4249,饿,Hungry,09,front,20,extracted/Participant_09/front/4249,val
+P09_4270_front,4270,肉,Meat,09,front,9,extracted/Participant_09/front/4270,val
+P09_4349_front,4349,对,Right,09,front,20,extracted/Participant_09/front/4349,val
+P09_4462_front,4462,学习1-1,Study (sign 1-1),09,front,15,extracted/Participant_09/front/4462,val
+P09_4466_front,4466,昨天,Yesterday,09,front,12,extracted/Participant_09/front/4466,val
+P09_4485_front,4485,白,White,09,front,10,extracted/Participant_09/front/4485,val
+P09_4486_front,4486,小孩儿,Child,09,front,15,extracted/Participant_09/front/4486,val
+P09_4525_front,4525,怎样,How,09,front,12,extracted/Participant_09/front/4525,val
+P09_4542_front,4542,明天,Tomorrow,09,front,15,extracted/Participant_09/front/4542,val
+P09_4691_front,4691,听,Listen,09,front,15,extracted/Participant_09/front/4691,val
+P09_4870_front,4870,做,Do,09,front,12,extracted/Participant_09/front/4870,val
+P09_4871_front,4871,美,Beauty,09,front,15,extracted/Participant_09/front/4871,val
+P09_4878_front,4878,干净,Clean,09,front,12,extracted/Participant_09/front/4878,val
+P09_4904_front,4904,公司,Company,09,front,10,extracted/Participant_09/front/4904,val
+P09_4910_front,4910,有,Have,09,front,12,extracted/Participant_09/front/4910,val
+P09_4944_front,4944,眼镜,Glasses,09,front,15,extracted/Participant_09/front/4944,val
+P09_4967_front,4967,所以1-1,So (sign 1-1),09,front,17,extracted/Participant_09/front/4967,val
+P09_4979_front,4979,弟弟,Younger brother,09,front,13,extracted/Participant_09/front/4979,val
+P09_5008_front,5008,朋友,Friend,09,front,12,extracted/Participant_09/front/5008,val
+P09_5022_front,5022,用,Use,09,front,12,extracted/Participant_09/front/5022,val
+P09_5086_front,5086,也,Also,09,front,12,extracted/Participant_09/front/5086,val
+P09_5094_front,5094,帮助,Help,09,front,14,extracted/Participant_09/front/5094,val
+P09_5253_front,5253,腻2-2,Be bored with (sign 2-2),09,front,17,extracted/Participant_09/front/5253,val
+P09_5311_front,5311,对不起1-2,Sorry (sign 1-2),09,front,17,extracted/Participant_09/front/5311,val
+P09_5316_front,5316,玩1-1,Play (sign 1-1),09,front,17,extracted/Participant_09/front/5316,val
+P09_5340_front,5340,脏,Dirty,09,front,12,extracted/Participant_09/front/5340,val
+P09_5353_front,5353,咖啡,Coffee,09,front,15,extracted/Participant_09/front/5353,val
+P09_5466_front,5466,图书馆,Library,09,front,17,extracted/Participant_09/front/5466,val
+P09_5471_front,5471,小,Small,09,front,15,extracted/Participant_09/front/5471,val
+P09_5478_front,5478,和,And,09,front,15,extracted/Participant_09/front/5478,val
+P09_5504_front,5504,1,One,09,front,10,extracted/Participant_09/front/5504,val
+P09_5513_front,5513,5,Five,09,front,10,extracted/Participant_09/front/5513,val
+P09_5575_front,5575,8,Eight,09,front,10,extracted/Participant_09/front/5575,val
+P09_5599_front,5599,大家,Everyone,09,front,15,extracted/Participant_09/front/5599,val
+P09_5610_front,5610,需要1-1,Need (sign 1-1),09,front,15,extracted/Participant_09/front/5610,val
+P09_5637_front,5637,谁,Who,09,front,17,extracted/Participant_09/front/5637,val
+P09_5651_front,5651,作业,School assignment,09,front,12,extracted/Participant_09/front/5651,val
+P09_5698_front,5698,开朗,Cheerful,09,front,15,extracted/Participant_09/front/5698,val
+P09_5716_front,5716,高兴,Happy,09,front,12,extracted/Participant_09/front/5716,val
+P09_5726_front,5726,家,Home,09,front,12,extracted/Participant_09/front/5726,val
+P09_5736_front,5736,紫,Purple,09,front,12,extracted/Participant_09/front/5736,val
+P09_5753_front,5753,椅子,Chair,09,front,10,extracted/Participant_09/front/5753,val
+P09_5780_front,5780,因为1-1,Because (sign 1-1),09,front,12,extracted/Participant_09/front/5780,val
+P09_5781_front,5781,高,High,09,front,15,extracted/Participant_09/front/5781,val
+P09_5800_front,5800,问,Ask,09,front,15,extracted/Participant_09/front/5800,val
+P09_5807_front,5807,渴,Thirsty,09,front,17,extracted/Participant_09/front/5807,val
+P09_5855_front,5855,红,Red,09,front,12,extracted/Participant_09/front/5855,val
+P09_5858_front,5858,腹,Abdomen,09,front,12,extracted/Participant_09/front/5858,val
+P09_5894_front,5894,车站,Station,09,front,14,extracted/Participant_09/front/5894,val
+P09_6056_front,6056,没事,It's okay,09,front,12,extracted/Participant_09/front/6056,val
+P09_6105_front,6105,休息,Rest,09,front,12,extracted/Participant_09/front/6105,val
+P09_6149_front,6149,厕所,Toilet,09,front,15,extracted/Participant_09/front/6149,val
+P09_6195_front,6195,香蕉,Banana,09,front,12,extracted/Participant_09/front/6195,val
+P09_6230_front,6230,忧愁,Sad,09,front,15,extracted/Participant_09/front/6230,val
+P09_6254_front,6254,卖,Sell,09,front,12,extracted/Participant_09/front/6254,val
+P09_6264_front,6264,爷爷,Grandfather,09,front,15,extracted/Participant_09/front/6264,val
+P09_6307_front,6307,下课,Finish class,09,front,12,extracted/Participant_09/front/6307,val
+P09_6343_front,6343,黄1-1,Yellow (sign 1-1),09,front,12,extracted/Participant_09/front/6343,val
+P09_6363_front,6363,紧张,Nervous,09,front,15,extracted/Participant_09/front/6363,val
+P09_6450_front,6450,他,He,09,front,12,extracted/Participant_09/front/6450,val
+P09_6488_front,6488,教室,Classroom,09,front,15,extracted/Participant_09/front/6488,val
+P09_6526_front,6526,参加,Participate,09,front,15,extracted/Participant_09/front/6526,val
+P09_6532_front,6532,足球,Football,09,front,15,extracted/Participant_09/front/6532,val
+P09_6571_front,6571,你们,You (plural),09,front,15,extracted/Participant_09/front/6571,val
+P09_6618_front,6618,现在,Now,09,front,15,extracted/Participant_09/front/6618,val
+P09_6645_front,6645,蓝1-2,Blue (sign 1-2),09,front,15,extracted/Participant_09/front/6645,val
+P09_6654_front,6654,知道,Know,09,front,12,extracted/Participant_09/front/6654,val
+P09_0021_left,0021,鸡,Chicken,09,left,12,extracted/Participant_09/left/0021,val
+P09_0071_left,0071,跑,Run,09,left,22,extracted/Participant_09/left/0071,val
+P09_0090_left,0090,答案,Answer,09,left,15,extracted/Participant_09/left/0090,val
+P09_0109_left,0109,什么,What,09,left,17,extracted/Participant_09/left/0109,val
+P09_0145_left,0145,9,Nine,09,left,15,extracted/Participant_09/left/0145,val
+P09_0165_left,0165,水果,Fruit,09,left,20,extracted/Participant_09/left/0165,val
+P09_0198_left,0198,是,Yes,09,left,12,extracted/Participant_09/left/0198,val
+P09_0246_left,0246,拨,Dial,09,left,11,extracted/Participant_09/left/0246,val
+P09_0289_left,0289,新1-1,New (sign 1-1),09,left,12,extracted/Participant_09/left/0289,val
+P09_0300_left,0300,鱼,Fish,09,left,15,extracted/Participant_09/left/0300,val
+P09_0356_left,0356,菜,Vegetable,09,left,13,extracted/Participant_09/left/0356,val
+P09_0369_left,0369,慢1-1,Slow (sign 1-1),09,left,12,extracted/Participant_09/left/0369,val
+P09_0396_left,0396,父亲,Father,09,left,17,extracted/Participant_09/left/0396,val
+P09_0457_left,0457,大寒,Great Cold (solar term),09,left,15,extracted/Participant_09/left/0457,val
+P09_0477_left,0477,快,Fast,09,left,17,extracted/Participant_09/left/0477,val
+P09_0488_left,0488,我们,We,09,left,17,extracted/Participant_09/left/0488,val
+P09_0514_left,0514,苹果,Apple,09,left,15,extracted/Participant_09/left/0514,val
+P09_0526_left,0526,学生,Student,09,left,15,extracted/Participant_09/left/0526,val
+P09_0534_left,0534,不同,Different,09,left,13,extracted/Participant_09/left/0534,val
+P09_0557_left,0557,葡萄,Grape,09,left,17,extracted/Participant_09/left/0557,val
+P09_0603_left,0603,来,Come,09,left,17,extracted/Participant_09/left/0603,val
+P09_0639_left,0639,大雨,Heavy rain,09,left,14,extracted/Participant_09/left/0639,val
+P09_0805_left,0805,成功1-1,Succeed (sign 1-1),09,left,13,extracted/Participant_09/left/0805,val
+P09_0869_left,0869,回家1-1,Go home (sign 1-1),09,left,15,extracted/Participant_09/left/0869,val
+P09_0927_left,0927,不,No,09,left,13,extracted/Participant_09/left/0927,val
+P09_0930_left,0930,但是1-1,But (sign 1-1),09,left,13,extracted/Participant_09/left/0930,val
+P09_0963_left,0963,容易,Easy,09,left,20,extracted/Participant_09/left/0963,val
+P09_0968_left,0968,牛奶,Milk,09,left,20,extracted/Participant_09/left/0968,val
+P09_1104_left,1104,同学1-1,Classmate (sign 1-1),09,left,20,extracted/Participant_09/left/1104,val
+P09_1224_left,1224,早上1-1,Morning (sign 1-1),09,left,12,extracted/Participant_09/left/1224,val
+P09_1230_left,1230,6,Six,09,left,12,extracted/Participant_09/left/1230,val
+P09_1251_left,1251,学校,School,09,left,15,extracted/Participant_09/left/1251,val
+P09_1256_left,1256,找,Look for,09,left,15,extracted/Participant_09/left/1256,val
+P09_1270_left,1270,写字,Write,09,left,15,extracted/Participant_09/left/1270,val
+P09_1284_left,1284,医院,Hospital,09,left,17,extracted/Participant_09/left/1284,val
+P09_1325_left,1325,感谢,Thank,09,left,15,extracted/Participant_09/left/1325,val
+P09_1328_left,1328,忘记,Forget,09,left,17,extracted/Participant_09/left/1328,val
+P09_1359_left,1359,阿姨,Aunt,09,left,22,extracted/Participant_09/left/1359,val
+P09_1406_left,1406,晚上,Evening,09,left,17,extracted/Participant_09/left/1406,val
+P09_1597_left,1597,老师,Teacher,09,left,15,extracted/Participant_09/left/1597,val
+P09_1614_left,1614,教导,Teach,09,left,22,extracted/Participant_09/left/1614,val
+P09_1636_left,1636,豆腐1-1,Tofu (sign 1-1),09,left,22,extracted/Participant_09/left/1636,val
+P09_1653_left,1653,牢记,Keep firmly in mind,09,left,17,extracted/Participant_09/left/1653,val
+P09_1658_left,1658,10,Ten,09,left,12,extracted/Participant_09/left/1658,val
+P09_1670_left,1670,少,Little,09,left,20,extracted/Participant_09/left/1670,val
+P09_1688_left,1688,坏,Bad,09,left,22,extracted/Participant_09/left/1688,val
+P09_1747_left,1747,鸡蛋,Egg,09,left,15,extracted/Participant_09/left/1747,val
+P09_1752_left,1752,讲课1-1,Teach (sign 1-1),09,left,20,extracted/Participant_09/left/1752,val
+P09_1770_left,1770,今天,Today,09,left,15,extracted/Participant_09/left/1770,val
+P09_1817_left,1817,聪明1-1,Clever (sign 1-1),09,left,11,extracted/Participant_09/left/1817,val
+P09_1818_left,1818,伯父,Uncle (father's brother),09,left,13,extracted/Participant_09/left/1818,val
+P09_1823_left,1823,超市,Supermarket,09,left,15,extracted/Participant_09/left/1823,val
+P09_1836_left,1836,鞋,Shoe,09,left,12,extracted/Participant_09/left/1836,val
+P09_1879_left,1879,水1-1,Water (sign 1-1),09,left,15,extracted/Participant_09/left/1879,val
+P09_1887_left,1887,走,Walk,09,left,12,extracted/Participant_09/left/1887,val
+P09_1925_left,1925,你,You,09,left,12,extracted/Participant_09/left/1925,val
+P09_1928_left,1928,我,I,09,left,15,extracted/Participant_09/left/1928,val
+P09_1955_left,1955,电影院,Cinema,09,left,13,extracted/Participant_09/left/1955,val
+P09_1962_left,1962,考试1-2,Examination (sign 1-2),09,left,17,extracted/Participant_09/left/1962,val
+P09_2026_left,2026,大雪,Heavy Snow (solar term),09,left,16,extracted/Participant_09/left/2026,val
+P09_2039_left,2039,在,Be (in,09,left,12,extracted/Participant_09/left/2039,val
+P09_2069_left,2069,失败1-1,Fail (sign 1-1),09,left,12,extracted/Participant_09/left/2069,val
+P09_2092_left,2092,好,Good,09,left,12,extracted/Participant_09/left/2092,val
+P09_2102_left,2102,医生,Doctor,09,left,10,extracted/Participant_09/left/2102,val
+P09_2130_left,2130,工作1-1,Work (sign 1-1),09,left,15,extracted/Participant_09/left/2130,val
+P09_2180_left,2180,散步,Take a walk,09,left,24,extracted/Participant_09/left/2180,val
+P09_2201_left,2201,天空,Sky,09,left,20,extracted/Participant_09/left/2201,val
+P09_2206_left,2206,文静,Gentle and quiet,09,left,20,extracted/Participant_09/left/2206,val
+P09_2217_left,2217,英俊,Handsome,09,left,12,extracted/Participant_09/left/2217,val
+P09_2229_left,2229,健康,Health,09,left,15,extracted/Participant_09/left/2229,val
+P09_2230_left,2230,以后,After,09,left,15,extracted/Participant_09/left/2230,val
+P09_2244_left,2244,如果,If,09,left,22,extracted/Participant_09/left/2244,val
+P09_2257_left,2257,成绩,Grade,09,left,13,extracted/Participant_09/left/2257,val
+P09_2346_left,2346,桌子,Table,09,left,15,extracted/Participant_09/left/2346,val
+P09_2386_left,2386,身体,Body,09,left,17,extracted/Participant_09/left/2386,val
+P09_2400_left,2400,站,Stand,09,left,12,extracted/Participant_09/left/2400,val
+P09_2407_left,2407,矮,Short,09,left,27,extracted/Participant_09/left/2407,val
+P09_2415_left,2415,说,Say,09,left,17,extracted/Participant_09/left/2415,val
+P09_2416_left,2416,担心,Worry,09,left,14,extracted/Participant_09/left/2416,val
+P09_2441_left,2441,他们,They,09,left,20,extracted/Participant_09/left/2441,val
+P09_2455_left,2455,累,Tired,09,left,15,extracted/Participant_09/left/2455,val
+P09_2462_left,2462,喜欢,Like,09,left,15,extracted/Participant_09/left/2462,val
+P09_2488_left,2488,鼻,Nose,09,left,13,extracted/Participant_09/left/2488,val
+P09_2492_left,2492,食堂,Canteen,09,left,12,extracted/Participant_09/left/2492,val
+P09_2498_left,2498,可以,Can,09,left,15,extracted/Participant_09/left/2498,val
+P09_2505_left,2505,没有1-1,There is no... (sign 1-1),09,left,17,extracted/Participant_09/left/2505,val
+P09_2533_left,2533,茶,Tea,09,left,11,extracted/Participant_09/left/2533,val
+P09_2535_left,2535,看1-1,Look (sign 1-1),09,left,17,extracted/Participant_09/left/2535,val
+P09_2558_left,2558,法国,France,09,left,22,extracted/Participant_09/left/2558,val
+P09_2559_left,2559,土耳其,Turkey,09,left,22,extracted/Participant_09/left/2559,val
+P09_2598_left,2598,妹妹,Younger sister,09,left,12,extracted/Participant_09/left/2598,val
+P09_2648_left,2648,舒服,Comfortable,09,left,20,extracted/Participant_09/left/2648,val
+P09_2659_left,2659,3,Three,09,left,12,extracted/Participant_09/left/2659,val
+P09_2676_left,2676,7,Seven,09,left,12,extracted/Participant_09/left/2676,val
+P09_2678_left,2678,树1-1,Tree (sign 1-1),09,left,17,extracted/Participant_09/left/2678,val
+P09_2680_left,2680,赌气,Be angry out of spite,09,left,22,extracted/Participant_09/left/2680,val
+P09_2694_left,2694,2,Two,09,left,17,extracted/Participant_09/left/2694,val
+P09_2701_left,2701,喂,Hello,09,left,17,extracted/Participant_09/left/2701,val
+P09_2732_left,2732,坐,Sit,09,left,12,extracted/Participant_09/left/2732,val
+P09_2832_left,2832,母亲,Mother,09,left,15,extracted/Participant_09/left/2832,val
+P09_2835_left,2835,衣服,Clothes,09,left,15,extracted/Participant_09/left/2835,val
+P09_2838_left,2838,公园,Park,09,left,24,extracted/Participant_09/left/2838,val
+P09_2853_left,2853,4,Four,09,left,12,extracted/Participant_09/left/2853,val
+P09_2899_left,2899,热1-2,Heat (sign 1-2),09,left,24,extracted/Participant_09/left/2899,val
+P09_2902_left,2902,花,Flower,09,left,12,extracted/Participant_09/left/2902,val
+P09_2908_left,2908,饺子,Dumpling,09,left,15,extracted/Participant_09/left/2908,val
+P09_2913_left,2913,恐怕,I'm afraid,09,left,15,extracted/Participant_09/left/2913,val
+P09_2922_left,2922,努力,Effort,09,left,15,extracted/Participant_09/left/2922,val
+P09_2961_left,2961,给,Give,09,left,17,extracted/Participant_09/left/2961,val
+P09_2985_left,2985,面包,Bread,09,left,12,extracted/Participant_09/left/2985,val
+P09_3031_left,3031,抢,Rob,09,left,22,extracted/Participant_09/left/3031,val
+P09_3113_left,3113,奶奶,Grandma,09,left,15,extracted/Participant_09/left/3113,val
+P09_3149_left,3149,姐姐,Elder sister,09,left,22,extracted/Participant_09/left/3149,val
+P09_3185_left,3185,睡觉,Sleep,09,left,17,extracted/Participant_09/left/3185,val
+P09_3257_left,3257,腿1-1,Leg1-1,09,left,17,extracted/Participant_09/left/3257,val
+P09_3308_left,3308,开始,Start,09,left,15,extracted/Participant_09/left/3308,val
+P09_3386_left,3386,起床,Get up,09,left,22,extracted/Participant_09/left/3386,val
+P09_3388_left,3388,饭,Meal,09,left,17,extracted/Participant_09/left/3388,val
+P09_3422_left,3422,篮球,Basketball,09,left,20,extracted/Participant_09/left/3422,val
+P09_3492_left,3492,为什么,Why,09,left,15,extracted/Participant_09/left/3492,val
+P09_3504_left,3504,喝,Drink,09,left,15,extracted/Participant_09/left/3504,val
+P09_3609_left,3609,大,Big,09,left,13,extracted/Participant_09/left/3609,val
+P09_3672_left,3672,爱,Love,09,left,20,extracted/Participant_09/left/3672,val
+P09_3703_left,3703,去,Go,09,left,24,extracted/Participant_09/left/3703,val
+P09_3716_left,3716,书包,Schoolbag,09,left,17,extracted/Participant_09/left/3716,val
+P09_3735_left,3735,等,Wait,09,left,11,extracted/Participant_09/left/3735,val
+P09_3789_left,3789,银行,Bank,09,left,15,extracted/Participant_09/left/3789,val
+P09_3993_left,3993,买,Buy,09,left,12,extracted/Participant_09/left/3993,val
+P09_4002_left,4002,哥哥,Elder brother,09,left,17,extracted/Participant_09/left/4002,val
+P09_4027_left,4027,黑,Black,09,left,12,extracted/Participant_09/left/4027,val
+P09_4073_left,4073,脚1-1,Foot (sign 1-1),09,left,15,extracted/Participant_09/left/4073,val
+P09_4102_left,4102,多,Many,09,left,20,extracted/Participant_09/left/4102,val
+P09_4113_left,4113,以前,Before,09,left,12,extracted/Participant_09/left/4113,val
+P09_4249_left,4249,饿,Hungry,09,left,20,extracted/Participant_09/left/4249,val
+P09_4270_left,4270,肉,Meat,09,left,22,extracted/Participant_09/left/4270,val
+P09_4349_left,4349,对,Right,09,left,20,extracted/Participant_09/left/4349,val
+P09_4462_left,4462,学习1-1,Study (sign 1-1),09,left,15,extracted/Participant_09/left/4462,val
+P09_4466_left,4466,昨天,Yesterday,09,left,15,extracted/Participant_09/left/4466,val
+P09_4485_left,4485,白,White,09,left,10,extracted/Participant_09/left/4485,val
+P09_4486_left,4486,小孩儿,Child,09,left,15,extracted/Participant_09/left/4486,val
+P09_4525_left,4525,怎样,How,09,left,15,extracted/Participant_09/left/4525,val
+P09_4542_left,4542,明天,Tomorrow,09,left,12,extracted/Participant_09/left/4542,val
+P09_4691_left,4691,听,Listen,09,left,20,extracted/Participant_09/left/4691,val
+P09_4870_left,4870,做,Do,09,left,12,extracted/Participant_09/left/4870,val
+P09_4871_left,4871,美,Beauty,09,left,17,extracted/Participant_09/left/4871,val
+P09_4878_left,4878,干净,Clean,09,left,12,extracted/Participant_09/left/4878,val
+P09_4904_left,4904,公司,Company,09,left,15,extracted/Participant_09/left/4904,val
+P09_4910_left,4910,有,Have,09,left,12,extracted/Participant_09/left/4910,val
+P09_4944_left,4944,眼镜,Glasses,09,left,17,extracted/Participant_09/left/4944,val
+P09_4967_left,4967,所以1-1,So (sign 1-1),09,left,17,extracted/Participant_09/left/4967,val
+P09_4979_left,4979,弟弟,Younger brother,09,left,13,extracted/Participant_09/left/4979,val
+P09_5008_left,5008,朋友,Friend,09,left,17,extracted/Participant_09/left/5008,val
+P09_5022_left,5022,用,Use,09,left,12,extracted/Participant_09/left/5022,val
+P09_5086_left,5086,也,Also,09,left,12,extracted/Participant_09/left/5086,val
+P09_5094_left,5094,帮助,Help,09,left,13,extracted/Participant_09/left/5094,val
+P09_5253_left,5253,腻2-2,Be bored with (sign 2-2),09,left,17,extracted/Participant_09/left/5253,val
+P09_5311_left,5311,对不起1-2,Sorry (sign 1-2),09,left,17,extracted/Participant_09/left/5311,val
+P09_5316_left,5316,玩1-1,Play (sign 1-1),09,left,17,extracted/Participant_09/left/5316,val
+P09_5340_left,5340,脏,Dirty,09,left,12,extracted/Participant_09/left/5340,val
+P09_5353_left,5353,咖啡,Coffee,09,left,17,extracted/Participant_09/left/5353,val
+P09_5466_left,5466,图书馆,Library,09,left,20,extracted/Participant_09/left/5466,val
+P09_5471_left,5471,小,Small,09,left,15,extracted/Participant_09/left/5471,val
+P09_5478_left,5478,和,And,09,left,15,extracted/Participant_09/left/5478,val
+P09_5504_left,5504,1,One,09,left,12,extracted/Participant_09/left/5504,val
+P09_5513_left,5513,5,Five,09,left,12,extracted/Participant_09/left/5513,val
+P09_5575_left,5575,8,Eight,09,left,12,extracted/Participant_09/left/5575,val
+P09_5599_left,5599,大家,Everyone,09,left,14,extracted/Participant_09/left/5599,val
+P09_5610_left,5610,需要1-1,Need (sign 1-1),09,left,15,extracted/Participant_09/left/5610,val
+P09_5637_left,5637,谁,Who,09,left,22,extracted/Participant_09/left/5637,val
+P09_5651_left,5651,作业,School assignment,09,left,15,extracted/Participant_09/left/5651,val
+P09_5698_left,5698,开朗,Cheerful,09,left,22,extracted/Participant_09/left/5698,val
+P09_5716_left,5716,高兴,Happy,09,left,15,extracted/Participant_09/left/5716,val
+P09_5726_left,5726,家,Home,09,left,12,extracted/Participant_09/left/5726,val
+P09_5736_left,5736,紫,Purple,09,left,10,extracted/Participant_09/left/5736,val
+P09_5753_left,5753,椅子,Chair,09,left,12,extracted/Participant_09/left/5753,val
+P09_5780_left,5780,因为1-1,Because (sign 1-1),09,left,12,extracted/Participant_09/left/5780,val
+P09_5781_left,5781,高,High,09,left,17,extracted/Participant_09/left/5781,val
+P09_5800_left,5800,问,Ask,09,left,17,extracted/Participant_09/left/5800,val
+P09_5807_left,5807,渴,Thirsty,09,left,20,extracted/Participant_09/left/5807,val
+P09_5855_left,5855,红,Red,09,left,15,extracted/Participant_09/left/5855,val
+P09_5858_left,5858,腹,Abdomen,09,left,15,extracted/Participant_09/left/5858,val
+P09_5894_left,5894,车站,Station,09,left,14,extracted/Participant_09/left/5894,val
+P09_6056_left,6056,没事,It's okay,09,left,27,extracted/Participant_09/left/6056,val
+P09_6105_left,6105,休息,Rest,09,left,12,extracted/Participant_09/left/6105,val
+P09_6149_left,6149,厕所,Toilet,09,left,13,extracted/Participant_09/left/6149,val
+P09_6195_left,6195,香蕉,Banana,09,left,15,extracted/Participant_09/left/6195,val
+P09_6230_left,6230,忧愁,Sad,09,left,17,extracted/Participant_09/left/6230,val
+P09_6254_left,6254,卖,Sell,09,left,15,extracted/Participant_09/left/6254,val
+P09_6264_left,6264,爷爷,Grandfather,09,left,12,extracted/Participant_09/left/6264,val
+P09_6307_left,6307,下课,Finish class,09,left,15,extracted/Participant_09/left/6307,val
+P09_6343_left,6343,黄1-1,Yellow (sign 1-1),09,left,15,extracted/Participant_09/left/6343,val
+P09_6363_left,6363,紧张,Nervous,09,left,15,extracted/Participant_09/left/6363,val
+P09_6450_left,6450,他,He,09,left,15,extracted/Participant_09/left/6450,val
+P09_6488_left,6488,教室,Classroom,09,left,22,extracted/Participant_09/left/6488,val
+P09_6526_left,6526,参加,Participate,09,left,14,extracted/Participant_09/left/6526,val
+P09_6532_left,6532,足球,Football,09,left,15,extracted/Participant_09/left/6532,val
+P09_6571_left,6571,你们,You (plural),09,left,17,extracted/Participant_09/left/6571,val
+P09_6618_left,6618,现在,Now,09,left,17,extracted/Participant_09/left/6618,val
+P09_6645_left,6645,蓝1-2,Blue (sign 1-2),09,left,32,extracted/Participant_09/left/6645,val
+P09_6654_left,6654,知道,Know,09,left,10,extracted/Participant_09/left/6654,val

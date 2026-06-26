@@ -1,0 +1,401 @@
+sample_id,gloss_id,gloss_zh,gloss_en,signer_id,view,n_frames,path,split
+P10_0021_front,0021,鸡,Chicken,10,front,12,extracted/Participant_10/front/0021,test
+P10_0071_front,0071,跑,Run,10,front,15,extracted/Participant_10/front/0071,test
+P10_0090_front,0090,答案,Answer,10,front,17,extracted/Participant_10/front/0090,test
+P10_0109_front,0109,什么,What,10,front,12,extracted/Participant_10/front/0109,test
+P10_0145_front,0145,9,Nine,10,front,12,extracted/Participant_10/front/0145,test
+P10_0165_front,0165,水果,Fruit,10,front,10,extracted/Participant_10/front/0165,test
+P10_0198_front,0198,是,Yes,10,front,12,extracted/Participant_10/front/0198,test
+P10_0246_front,0246,拨,Dial,10,front,11,extracted/Participant_10/front/0246,test
+P10_0289_front,0289,新1-1,New (sign 1-1),10,front,24,extracted/Participant_10/front/0289,test
+P10_0300_front,0300,鱼,Fish,10,front,12,extracted/Participant_10/front/0300,test
+P10_0356_front,0356,菜,Vegetable,10,front,22,extracted/Participant_10/front/0356,test
+P10_0369_front,0369,慢1-1,Slow (sign 1-1),10,front,12,extracted/Participant_10/front/0369,test
+P10_0396_front,0396,父亲,Father,10,front,12,extracted/Participant_10/front/0396,test
+P10_0457_front,0457,大寒,Great Cold (solar term),10,front,20,extracted/Participant_10/front/0457,test
+P10_0477_front,0477,快,Fast,10,front,17,extracted/Participant_10/front/0477,test
+P10_0488_front,0488,我们,We,10,front,15,extracted/Participant_10/front/0488,test
+P10_0514_front,0514,苹果,Apple,10,front,15,extracted/Participant_10/front/0514,test
+P10_0526_front,0526,学生,Student,10,front,15,extracted/Participant_10/front/0526,test
+P10_0534_front,0534,不同,Different,10,front,17,extracted/Participant_10/front/0534,test
+P10_0557_front,0557,葡萄,Grape,10,front,15,extracted/Participant_10/front/0557,test
+P10_0603_front,0603,来,Come,10,front,15,extracted/Participant_10/front/0603,test
+P10_0639_front,0639,大雨,Heavy rain,10,front,17,extracted/Participant_10/front/0639,test
+P10_0805_front,0805,成功1-1,Succeed (sign 1-1),10,front,22,extracted/Participant_10/front/0805,test
+P10_0869_front,0869,回家1-1,Go home (sign 1-1),10,front,15,extracted/Participant_10/front/0869,test
+P10_0927_front,0927,不,No,10,front,10,extracted/Participant_10/front/0927,test
+P10_0930_front,0930,但是1-1,But (sign 1-1),10,front,15,extracted/Participant_10/front/0930,test
+P10_0963_front,0963,容易,Easy,10,front,20,extracted/Participant_10/front/0963,test
+P10_0968_front,0968,牛奶,Milk,10,front,17,extracted/Participant_10/front/0968,test
+P10_1104_front,1104,同学1-1,Classmate (sign 1-1),10,front,15,extracted/Participant_10/front/1104,test
+P10_1224_front,1224,早上1-1,Morning (sign 1-1),10,front,15,extracted/Participant_10/front/1224,test
+P10_1230_front,1230,6,Six,10,front,10,extracted/Participant_10/front/1230,test
+P10_1251_front,1251,学校,School,10,front,17,extracted/Participant_10/front/1251,test
+P10_1256_front,1256,找,Look for,10,front,15,extracted/Participant_10/front/1256,test
+P10_1270_front,1270,写字,Write,10,front,17,extracted/Participant_10/front/1270,test
+P10_1284_front,1284,医院,Hospital,10,front,15,extracted/Participant_10/front/1284,test
+P10_1325_front,1325,感谢,Thank,10,front,12,extracted/Participant_10/front/1325,test
+P10_1328_front,1328,忘记,Forget,10,front,17,extracted/Participant_10/front/1328,test
+P10_1359_front,1359,阿姨,Aunt,10,front,13,extracted/Participant_10/front/1359,test
+P10_1406_front,1406,晚上,Evening,10,front,17,extracted/Participant_10/front/1406,test
+P10_1597_front,1597,老师,Teacher,10,front,20,extracted/Participant_10/front/1597,test
+P10_1614_front,1614,教导,Teach,10,front,12,extracted/Participant_10/front/1614,test
+P10_1636_front,1636,豆腐1-1,Tofu (sign 1-1),10,front,15,extracted/Participant_10/front/1636,test
+P10_1653_front,1653,牢记,Keep firmly in mind,10,front,17,extracted/Participant_10/front/1653,test
+P10_1658_front,1658,10,Ten,10,front,12,extracted/Participant_10/front/1658,test
+P10_1670_front,1670,少,Little,10,front,12,extracted/Participant_10/front/1670,test
+P10_1688_front,1688,坏,Bad,10,front,12,extracted/Participant_10/front/1688,test
+P10_1747_front,1747,鸡蛋,Egg,10,front,15,extracted/Participant_10/front/1747,test
+P10_1752_front,1752,讲课1-1,Teach (sign 1-1),10,front,15,extracted/Participant_10/front/1752,test
+P10_1770_front,1770,今天,Today,10,front,12,extracted/Participant_10/front/1770,test
+P10_1817_front,1817,聪明1-1,Clever (sign 1-1),10,front,22,extracted/Participant_10/front/1817,test
+P10_1818_front,1818,伯父,Uncle (father's brother),10,front,13,extracted/Participant_10/front/1818,test
+P10_1823_front,1823,超市,Supermarket,10,front,24,extracted/Participant_10/front/1823,test
+P10_1836_front,1836,鞋,Shoe,10,front,17,extracted/Participant_10/front/1836,test
+P10_1879_front,1879,水1-1,Water (sign 1-1),10,front,10,extracted/Participant_10/front/1879,test
+P10_1887_front,1887,走,Walk,10,front,15,extracted/Participant_10/front/1887,test
+P10_1925_front,1925,你,You,10,front,15,extracted/Participant_10/front/1925,test
+P10_1928_front,1928,我,I,10,front,15,extracted/Participant_10/front/1928,test
+P10_1955_front,1955,电影院,Cinema,10,front,20,extracted/Participant_10/front/1955,test
+P10_1962_front,1962,考试1-2,Examination (sign 1-2),10,front,17,extracted/Participant_10/front/1962,test
+P10_2026_front,2026,大雪,Heavy Snow (solar term),10,front,22,extracted/Participant_10/front/2026,test
+P10_2039_front,2039,在,Be (in,10,front,12,extracted/Participant_10/front/2039,test
+P10_2069_front,2069,失败1-1,Fail (sign 1-1),10,front,12,extracted/Participant_10/front/2069,test
+P10_2092_front,2092,好,Good,10,front,15,extracted/Participant_10/front/2092,test
+P10_2102_front,2102,医生,Doctor,10,front,12,extracted/Participant_10/front/2102,test
+P10_2130_front,2130,工作1-1,Work (sign 1-1),10,front,12,extracted/Participant_10/front/2130,test
+P10_2180_front,2180,散步,Take a walk,10,front,20,extracted/Participant_10/front/2180,test
+P10_2201_front,2201,天空,Sky,10,front,12,extracted/Participant_10/front/2201,test
+P10_2206_front,2206,文静,Gentle and quiet,10,front,15,extracted/Participant_10/front/2206,test
+P10_2217_front,2217,英俊,Handsome,10,front,15,extracted/Participant_10/front/2217,test
+P10_2229_front,2229,健康,Health,10,front,12,extracted/Participant_10/front/2229,test
+P10_2230_front,2230,以后,After,10,front,12,extracted/Participant_10/front/2230,test
+P10_2244_front,2244,如果,If,10,front,20,extracted/Participant_10/front/2244,test
+P10_2257_front,2257,成绩,Grade,10,front,22,extracted/Participant_10/front/2257,test
+P10_2346_front,2346,桌子,Table,10,front,12,extracted/Participant_10/front/2346,test
+P10_2386_front,2386,身体,Body,10,front,12,extracted/Participant_10/front/2386,test
+P10_2400_front,2400,站,Stand,10,front,15,extracted/Participant_10/front/2400,test
+P10_2407_front,2407,矮,Short,10,front,13,extracted/Participant_10/front/2407,test
+P10_2415_front,2415,说,Say,10,front,12,extracted/Participant_10/front/2415,test
+P10_2416_front,2416,担心,Worry,10,front,15,extracted/Participant_10/front/2416,test
+P10_2441_front,2441,他们,They,10,front,12,extracted/Participant_10/front/2441,test
+P10_2455_front,2455,累,Tired,10,front,15,extracted/Participant_10/front/2455,test
+P10_2462_front,2462,喜欢,Like,10,front,15,extracted/Participant_10/front/2462,test
+P10_2488_front,2488,鼻,Nose,10,front,13,extracted/Participant_10/front/2488,test
+P10_2492_front,2492,食堂,Canteen,10,front,12,extracted/Participant_10/front/2492,test
+P10_2498_front,2498,可以,Can,10,front,17,extracted/Participant_10/front/2498,test
+P10_2505_front,2505,没有1-1,There is no... (sign 1-1),10,front,15,extracted/Participant_10/front/2505,test
+P10_2533_front,2533,茶,Tea,10,front,22,extracted/Participant_10/front/2533,test
+P10_2535_front,2535,看1-1,Look (sign 1-1),10,front,17,extracted/Participant_10/front/2535,test
+P10_2558_front,2558,法国,France,10,front,15,extracted/Participant_10/front/2558,test
+P10_2559_front,2559,土耳其,Turkey,10,front,15,extracted/Participant_10/front/2559,test
+P10_2598_front,2598,妹妹,Younger sister,10,front,17,extracted/Participant_10/front/2598,test
+P10_2648_front,2648,舒服,Comfortable,10,front,12,extracted/Participant_10/front/2648,test
+P10_2659_front,2659,3,Three,10,front,10,extracted/Participant_10/front/2659,test
+P10_2676_front,2676,7,Seven,10,front,12,extracted/Participant_10/front/2676,test
+P10_2678_front,2678,树1-1,Tree (sign 1-1),10,front,12,extracted/Participant_10/front/2678,test
+P10_2680_front,2680,赌气,Be angry out of spite,10,front,15,extracted/Participant_10/front/2680,test
+P10_2694_front,2694,2,Two,10,front,10,extracted/Participant_10/front/2694,test
+P10_2701_front,2701,喂,Hello,10,front,17,extracted/Participant_10/front/2701,test
+P10_2732_front,2732,坐,Sit,10,front,12,extracted/Participant_10/front/2732,test
+P10_2832_front,2832,母亲,Mother,10,front,17,extracted/Participant_10/front/2832,test
+P10_2835_front,2835,衣服,Clothes,10,front,15,extracted/Participant_10/front/2835,test
+P10_2838_front,2838,公园,Park,10,front,12,extracted/Participant_10/front/2838,test
+P10_2853_front,2853,4,Four,10,front,10,extracted/Participant_10/front/2853,test
+P10_2899_front,2899,热1-2,Heat (sign 1-2),10,front,17,extracted/Participant_10/front/2899,test
+P10_2902_front,2902,花,Flower,10,front,17,extracted/Participant_10/front/2902,test
+P10_2908_front,2908,饺子,Dumpling,10,front,15,extracted/Participant_10/front/2908,test
+P10_2913_front,2913,恐怕,I'm afraid,10,front,17,extracted/Participant_10/front/2913,test
+P10_2922_front,2922,努力,Effort,10,front,17,extracted/Participant_10/front/2922,test
+P10_2961_front,2961,给,Give,10,front,15,extracted/Participant_10/front/2961,test
+P10_2985_front,2985,面包,Bread,10,front,15,extracted/Participant_10/front/2985,test
+P10_3031_front,3031,抢,Rob,10,front,17,extracted/Participant_10/front/3031,test
+P10_3113_front,3113,奶奶,Grandma,10,front,15,extracted/Participant_10/front/3113,test
+P10_3149_front,3149,姐姐,Elder sister,10,front,12,extracted/Participant_10/front/3149,test
+P10_3185_front,3185,睡觉,Sleep,10,front,12,extracted/Participant_10/front/3185,test
+P10_3257_front,3257,腿1-1,Leg1-1,10,front,15,extracted/Participant_10/front/3257,test
+P10_3308_front,3308,开始,Start,10,front,15,extracted/Participant_10/front/3308,test
+P10_3386_front,3386,起床,Get up,10,front,17,extracted/Participant_10/front/3386,test
+P10_3388_front,3388,饭,Meal,10,front,12,extracted/Participant_10/front/3388,test
+P10_3422_front,3422,篮球,Basketball,10,front,17,extracted/Participant_10/front/3422,test
+P10_3492_front,3492,为什么,Why,10,front,15,extracted/Participant_10/front/3492,test
+P10_3504_front,3504,喝,Drink,10,front,10,extracted/Participant_10/front/3504,test
+P10_3609_front,3609,大,Big,10,front,20,extracted/Participant_10/front/3609,test
+P10_3672_front,3672,爱,Love,10,front,14,extracted/Participant_10/front/3672,test
+P10_3703_front,3703,去,Go,10,front,17,extracted/Participant_10/front/3703,test
+P10_3716_front,3716,书包,Schoolbag,10,front,15,extracted/Participant_10/front/3716,test
+P10_3735_front,3735,等,Wait,10,front,20,extracted/Participant_10/front/3735,test
+P10_3789_front,3789,银行,Bank,10,front,15,extracted/Participant_10/front/3789,test
+P10_3993_front,3993,买,Buy,10,front,10,extracted/Participant_10/front/3993,test
+P10_4002_front,4002,哥哥,Elder brother,10,front,23,extracted/Participant_10/front/4002,test
+P10_4027_front,4027,黑,Black,10,front,12,extracted/Participant_10/front/4027,test
+P10_4073_front,4073,脚1-1,Foot (sign 1-1),10,front,12,extracted/Participant_10/front/4073,test
+P10_4102_front,4102,多,Many,10,front,12,extracted/Participant_10/front/4102,test
+P10_4113_front,4113,以前,Before,10,front,12,extracted/Participant_10/front/4113,test
+P10_4249_front,4249,饿,Hungry,10,front,15,extracted/Participant_10/front/4249,test
+P10_4270_front,4270,肉,Meat,10,front,20,extracted/Participant_10/front/4270,test
+P10_4349_front,4349,对,Right,10,front,15,extracted/Participant_10/front/4349,test
+P10_4462_front,4462,学习1-1,Study (sign 1-1),10,front,15,extracted/Participant_10/front/4462,test
+P10_4466_front,4466,昨天,Yesterday,10,front,12,extracted/Participant_10/front/4466,test
+P10_4485_front,4485,白,White,10,front,10,extracted/Participant_10/front/4485,test
+P10_4486_front,4486,小孩儿,Child,10,front,20,extracted/Participant_10/front/4486,test
+P10_4525_front,4525,怎样,How,10,front,15,extracted/Participant_10/front/4525,test
+P10_4542_front,4542,明天,Tomorrow,10,front,17,extracted/Participant_10/front/4542,test
+P10_4691_front,4691,听,Listen,10,front,15,extracted/Participant_10/front/4691,test
+P10_4870_front,4870,做,Do,10,front,12,extracted/Participant_10/front/4870,test
+P10_4871_front,4871,美,Beauty,10,front,12,extracted/Participant_10/front/4871,test
+P10_4878_front,4878,干净,Clean,10,front,12,extracted/Participant_10/front/4878,test
+P10_4904_front,4904,公司,Company,10,front,12,extracted/Participant_10/front/4904,test
+P10_4910_front,4910,有,Have,10,front,12,extracted/Participant_10/front/4910,test
+P10_4944_front,4944,眼镜,Glasses,10,front,15,extracted/Participant_10/front/4944,test
+P10_4967_front,4967,所以1-1,So (sign 1-1),10,front,20,extracted/Participant_10/front/4967,test
+P10_4979_front,4979,弟弟,Younger brother,10,front,13,extracted/Participant_10/front/4979,test
+P10_5008_front,5008,朋友,Friend,10,front,15,extracted/Participant_10/front/5008,test
+P10_5022_front,5022,用,Use,10,front,12,extracted/Participant_10/front/5022,test
+P10_5086_front,5086,也,Also,10,front,17,extracted/Participant_10/front/5086,test
+P10_5094_front,5094,帮助,Help,10,front,14,extracted/Participant_10/front/5094,test
+P10_5253_front,5253,腻2-2,Be bored with (sign 2-2),10,front,17,extracted/Participant_10/front/5253,test
+P10_5311_front,5311,对不起1-2,Sorry (sign 1-2),10,front,12,extracted/Participant_10/front/5311,test
+P10_5316_front,5316,玩1-1,Play (sign 1-1),10,front,15,extracted/Participant_10/front/5316,test
+P10_5340_front,5340,脏,Dirty,10,front,12,extracted/Participant_10/front/5340,test
+P10_5353_front,5353,咖啡,Coffee,10,front,15,extracted/Participant_10/front/5353,test
+P10_5466_front,5466,图书馆,Library,10,front,17,extracted/Participant_10/front/5466,test
+P10_5471_front,5471,小,Small,10,front,15,extracted/Participant_10/front/5471,test
+P10_5478_front,5478,和,And,10,front,12,extracted/Participant_10/front/5478,test
+P10_5504_front,5504,1,One,10,front,10,extracted/Participant_10/front/5504,test
+P10_5513_front,5513,5,Five,10,front,10,extracted/Participant_10/front/5513,test
+P10_5575_front,5575,8,Eight,10,front,8,extracted/Participant_10/front/5575,test
+P10_5599_front,5599,大家,Everyone,10,front,20,extracted/Participant_10/front/5599,test
+P10_5610_front,5610,需要1-1,Need (sign 1-1),10,front,15,extracted/Participant_10/front/5610,test
+P10_5637_front,5637,谁,Who,10,front,15,extracted/Participant_10/front/5637,test
+P10_5651_front,5651,作业,School assignment,10,front,12,extracted/Participant_10/front/5651,test
+P10_5698_front,5698,开朗,Cheerful,10,front,15,extracted/Participant_10/front/5698,test
+P10_5716_front,5716,高兴,Happy,10,front,10,extracted/Participant_10/front/5716,test
+P10_5726_front,5726,家,Home,10,front,12,extracted/Participant_10/front/5726,test
+P10_5736_front,5736,紫,Purple,10,front,15,extracted/Participant_10/front/5736,test
+P10_5753_front,5753,椅子,Chair,10,front,12,extracted/Participant_10/front/5753,test
+P10_5780_front,5780,因为1-1,Because (sign 1-1),10,front,15,extracted/Participant_10/front/5780,test
+P10_5781_front,5781,高,High,10,front,12,extracted/Participant_10/front/5781,test
+P10_5800_front,5800,问,Ask,10,front,15,extracted/Participant_10/front/5800,test
+P10_5807_front,5807,渴,Thirsty,10,front,20,extracted/Participant_10/front/5807,test
+P10_5855_front,5855,红,Red,10,front,12,extracted/Participant_10/front/5855,test
+P10_5858_front,5858,腹,Abdomen,10,front,12,extracted/Participant_10/front/5858,test
+P10_5894_front,5894,车站,Station,10,front,17,extracted/Participant_10/front/5894,test
+P10_6056_front,6056,没事,It's okay,10,front,15,extracted/Participant_10/front/6056,test
+P10_6105_front,6105,休息,Rest,10,front,15,extracted/Participant_10/front/6105,test
+P10_6149_front,6149,厕所,Toilet,10,front,20,extracted/Participant_10/front/6149,test
+P10_6195_front,6195,香蕉,Banana,10,front,17,extracted/Participant_10/front/6195,test
+P10_6230_front,6230,忧愁,Sad,10,front,15,extracted/Participant_10/front/6230,test
+P10_6254_front,6254,卖,Sell,10,front,10,extracted/Participant_10/front/6254,test
+P10_6264_front,6264,爷爷,Grandfather,10,front,17,extracted/Participant_10/front/6264,test
+P10_6307_front,6307,下课,Finish class,10,front,15,extracted/Participant_10/front/6307,test
+P10_6343_front,6343,黄1-1,Yellow (sign 1-1),10,front,12,extracted/Participant_10/front/6343,test
+P10_6363_front,6363,紧张,Nervous,10,front,23,extracted/Participant_10/front/6363,test
+P10_6450_front,6450,他,He,10,front,10,extracted/Participant_10/front/6450,test
+P10_6488_front,6488,教室,Classroom,10,front,15,extracted/Participant_10/front/6488,test
+P10_6526_front,6526,参加,Participate,10,front,20,extracted/Participant_10/front/6526,test
+P10_6532_front,6532,足球,Football,10,front,12,extracted/Participant_10/front/6532,test
+P10_6571_front,6571,你们,You (plural),10,front,15,extracted/Participant_10/front/6571,test
+P10_6618_front,6618,现在,Now,10,front,17,extracted/Participant_10/front/6618,test
+P10_6645_front,6645,蓝1-2,Blue (sign 1-2),10,front,17,extracted/Participant_10/front/6645,test
+P10_6654_front,6654,知道,Know,10,front,12,extracted/Participant_10/front/6654,test
+P10_0021_left,0021,鸡,Chicken,10,left,10,extracted/Participant_10/left/0021,test
+P10_0071_left,0071,跑,Run,10,left,17,extracted/Participant_10/left/0071,test
+P10_0090_left,0090,答案,Answer,10,left,22,extracted/Participant_10/left/0090,test
+P10_0109_left,0109,什么,What,10,left,12,extracted/Participant_10/left/0109,test
+P10_0145_left,0145,9,Nine,10,left,15,extracted/Participant_10/left/0145,test
+P10_0165_left,0165,水果,Fruit,10,left,12,extracted/Participant_10/left/0165,test
+P10_0198_left,0198,是,Yes,10,left,12,extracted/Participant_10/left/0198,test
+P10_0246_left,0246,拨,Dial,10,left,16,extracted/Participant_10/left/0246,test
+P10_0289_left,0289,新1-1,New (sign 1-1),10,left,24,extracted/Participant_10/left/0289,test
+P10_0300_left,0300,鱼,Fish,10,left,15,extracted/Participant_10/left/0300,test
+P10_0356_left,0356,菜,Vegetable,10,left,20,extracted/Participant_10/left/0356,test
+P10_0369_left,0369,慢1-1,Slow (sign 1-1),10,left,8,extracted/Participant_10/left/0369,test
+P10_0396_left,0396,父亲,Father,10,left,15,extracted/Participant_10/left/0396,test
+P10_0457_left,0457,大寒,Great Cold (solar term),10,left,17,extracted/Participant_10/left/0457,test
+P10_0477_left,0477,快,Fast,10,left,12,extracted/Participant_10/left/0477,test
+P10_0488_left,0488,我们,We,10,left,20,extracted/Participant_10/left/0488,test
+P10_0514_left,0514,苹果,Apple,10,left,15,extracted/Participant_10/left/0514,test
+P10_0526_left,0526,学生,Student,10,left,15,extracted/Participant_10/left/0526,test
+P10_0534_left,0534,不同,Different,10,left,17,extracted/Participant_10/left/0534,test
+P10_0557_left,0557,葡萄,Grape,10,left,17,extracted/Participant_10/left/0557,test
+P10_0603_left,0603,来,Come,10,left,10,extracted/Participant_10/left/0603,test
+P10_0639_left,0639,大雨,Heavy rain,10,left,17,extracted/Participant_10/left/0639,test
+P10_0805_left,0805,成功1-1,Succeed (sign 1-1),10,left,17,extracted/Participant_10/left/0805,test
+P10_0869_left,0869,回家1-1,Go home (sign 1-1),10,left,15,extracted/Participant_10/left/0869,test
+P10_0927_left,0927,不,No,10,left,11,extracted/Participant_10/left/0927,test
+P10_0930_left,0930,但是1-1,But (sign 1-1),10,left,17,extracted/Participant_10/left/0930,test
+P10_0963_left,0963,容易,Easy,10,left,15,extracted/Participant_10/left/0963,test
+P10_0968_left,0968,牛奶,Milk,10,left,17,extracted/Participant_10/left/0968,test
+P10_1104_left,1104,同学1-1,Classmate (sign 1-1),10,left,12,extracted/Participant_10/left/1104,test
+P10_1224_left,1224,早上1-1,Morning (sign 1-1),10,left,17,extracted/Participant_10/left/1224,test
+P10_1230_left,1230,6,Six,10,left,12,extracted/Participant_10/left/1230,test
+P10_1251_left,1251,学校,School,10,left,17,extracted/Participant_10/left/1251,test
+P10_1256_left,1256,找,Look for,10,left,17,extracted/Participant_10/left/1256,test
+P10_1270_left,1270,写字,Write,10,left,20,extracted/Participant_10/left/1270,test
+P10_1284_left,1284,医院,Hospital,10,left,17,extracted/Participant_10/left/1284,test
+P10_1325_left,1325,感谢,Thank,10,left,10,extracted/Participant_10/left/1325,test
+P10_1328_left,1328,忘记,Forget,10,left,17,extracted/Participant_10/left/1328,test
+P10_1359_left,1359,阿姨,Aunt,10,left,19,extracted/Participant_10/left/1359,test
+P10_1406_left,1406,晚上,Evening,10,left,15,extracted/Participant_10/left/1406,test
+P10_1597_left,1597,老师,Teacher,10,left,12,extracted/Participant_10/left/1597,test
+P10_1614_left,1614,教导,Teach,10,left,15,extracted/Participant_10/left/1614,test
+P10_1636_left,1636,豆腐1-1,Tofu (sign 1-1),10,left,15,extracted/Participant_10/left/1636,test
+P10_1653_left,1653,牢记,Keep firmly in mind,10,left,15,extracted/Participant_10/left/1653,test
+P10_1658_left,1658,10,Ten,10,left,12,extracted/Participant_10/left/1658,test
+P10_1670_left,1670,少,Little,10,left,15,extracted/Participant_10/left/1670,test
+P10_1688_left,1688,坏,Bad,10,left,12,extracted/Participant_10/left/1688,test
+P10_1747_left,1747,鸡蛋,Egg,10,left,15,extracted/Participant_10/left/1747,test
+P10_1752_left,1752,讲课1-1,Teach (sign 1-1),10,left,15,extracted/Participant_10/left/1752,test
+P10_1770_left,1770,今天,Today,10,left,12,extracted/Participant_10/left/1770,test
+P10_1817_left,1817,聪明1-1,Clever (sign 1-1),10,left,22,extracted/Participant_10/left/1817,test
+P10_1818_left,1818,伯父,Uncle (father's brother),10,left,19,extracted/Participant_10/left/1818,test
+P10_1823_left,1823,超市,Supermarket,10,left,24,extracted/Participant_10/left/1823,test
+P10_1836_left,1836,鞋,Shoe,10,left,20,extracted/Participant_10/left/1836,test
+P10_1879_left,1879,水1-1,Water (sign 1-1),10,left,12,extracted/Participant_10/left/1879,test
+P10_1887_left,1887,走,Walk,10,left,15,extracted/Participant_10/left/1887,test
+P10_1925_left,1925,你,You,10,left,15,extracted/Participant_10/left/1925,test
+P10_1928_left,1928,我,I,10,left,12,extracted/Participant_10/left/1928,test
+P10_1955_left,1955,电影院,Cinema,10,left,22,extracted/Participant_10/left/1955,test
+P10_1962_left,1962,考试1-2,Examination (sign 1-2),10,left,17,extracted/Participant_10/left/1962,test
+P10_2026_left,2026,大雪,Heavy Snow (solar term),10,left,24,extracted/Participant_10/left/2026,test
+P10_2039_left,2039,在,Be (in,10,left,17,extracted/Participant_10/left/2039,test
+P10_2069_left,2069,失败1-1,Fail (sign 1-1),10,left,15,extracted/Participant_10/left/2069,test
+P10_2092_left,2092,好,Good,10,left,15,extracted/Participant_10/left/2092,test
+P10_2102_left,2102,医生,Doctor,10,left,15,extracted/Participant_10/left/2102,test
+P10_2130_left,2130,工作1-1,Work (sign 1-1),10,left,15,extracted/Participant_10/left/2130,test
+P10_2180_left,2180,散步,Take a walk,10,left,15,extracted/Participant_10/left/2180,test
+P10_2201_left,2201,天空,Sky,10,left,15,extracted/Participant_10/left/2201,test
+P10_2206_left,2206,文静,Gentle and quiet,10,left,17,extracted/Participant_10/left/2206,test
+P10_2217_left,2217,英俊,Handsome,10,left,15,extracted/Participant_10/left/2217,test
+P10_2229_left,2229,健康,Health,10,left,15,extracted/Participant_10/left/2229,test
+P10_2230_left,2230,以后,After,10,left,15,extracted/Participant_10/left/2230,test
+P10_2244_left,2244,如果,If,10,left,15,extracted/Participant_10/left/2244,test
+P10_2257_left,2257,成绩,Grade,10,left,17,extracted/Participant_10/left/2257,test
+P10_2346_left,2346,桌子,Table,10,left,12,extracted/Participant_10/left/2346,test
+P10_2386_left,2386,身体,Body,10,left,15,extracted/Participant_10/left/2386,test
+P10_2400_left,2400,站,Stand,10,left,17,extracted/Participant_10/left/2400,test
+P10_2407_left,2407,矮,Short,10,left,22,extracted/Participant_10/left/2407,test
+P10_2415_left,2415,说,Say,10,left,12,extracted/Participant_10/left/2415,test
+P10_2416_left,2416,担心,Worry,10,left,17,extracted/Participant_10/left/2416,test
+P10_2441_left,2441,他们,They,10,left,15,extracted/Participant_10/left/2441,test
+P10_2455_left,2455,累,Tired,10,left,15,extracted/Participant_10/left/2455,test
+P10_2462_left,2462,喜欢,Like,10,left,17,extracted/Participant_10/left/2462,test
+P10_2488_left,2488,鼻,Nose,10,left,10,extracted/Participant_10/left/2488,test
+P10_2492_left,2492,食堂,Canteen,10,left,12,extracted/Participant_10/left/2492,test
+P10_2498_left,2498,可以,Can,10,left,12,extracted/Participant_10/left/2498,test
+P10_2505_left,2505,没有1-1,There is no... (sign 1-1),10,left,12,extracted/Participant_10/left/2505,test
+P10_2533_left,2533,茶,Tea,10,left,17,extracted/Participant_10/left/2533,test
+P10_2535_left,2535,看1-1,Look (sign 1-1),10,left,15,extracted/Participant_10/left/2535,test
+P10_2558_left,2558,法国,France,10,left,12,extracted/Participant_10/left/2558,test
+P10_2559_left,2559,土耳其,Turkey,10,left,12,extracted/Participant_10/left/2559,test
+P10_2598_left,2598,妹妹,Younger sister,10,left,20,extracted/Participant_10/left/2598,test
+P10_2648_left,2648,舒服,Comfortable,10,left,15,extracted/Participant_10/left/2648,test
+P10_2659_left,2659,3,Three,10,left,10,extracted/Participant_10/left/2659,test
+P10_2676_left,2676,7,Seven,10,left,12,extracted/Participant_10/left/2676,test
+P10_2678_left,2678,树1-1,Tree (sign 1-1),10,left,15,extracted/Participant_10/left/2678,test
+P10_2680_left,2680,赌气,Be angry out of spite,10,left,15,extracted/Participant_10/left/2680,test
+P10_2694_left,2694,2,Two,10,left,12,extracted/Participant_10/left/2694,test
+P10_2701_left,2701,喂,Hello,10,left,17,extracted/Participant_10/left/2701,test
+P10_2732_left,2732,坐,Sit,10,left,12,extracted/Participant_10/left/2732,test
+P10_2832_left,2832,母亲,Mother,10,left,15,extracted/Participant_10/left/2832,test
+P10_2835_left,2835,衣服,Clothes,10,left,15,extracted/Participant_10/left/2835,test
+P10_2838_left,2838,公园,Park,10,left,17,extracted/Participant_10/left/2838,test
+P10_2853_left,2853,4,Four,10,left,10,extracted/Participant_10/left/2853,test
+P10_2899_left,2899,热1-2,Heat (sign 1-2),10,left,15,extracted/Participant_10/left/2899,test
+P10_2902_left,2902,花,Flower,10,left,17,extracted/Participant_10/left/2902,test
+P10_2908_left,2908,饺子,Dumpling,10,left,17,extracted/Participant_10/left/2908,test
+P10_2913_left,2913,恐怕,I'm afraid,10,left,17,extracted/Participant_10/left/2913,test
+P10_2922_left,2922,努力,Effort,10,left,15,extracted/Participant_10/left/2922,test
+P10_2961_left,2961,给,Give,10,left,15,extracted/Participant_10/left/2961,test
+P10_2985_left,2985,面包,Bread,10,left,15,extracted/Participant_10/left/2985,test
+P10_3031_left,3031,抢,Rob,10,left,12,extracted/Participant_10/left/3031,test
+P10_3113_left,3113,奶奶,Grandma,10,left,17,extracted/Participant_10/left/3113,test
+P10_3149_left,3149,姐姐,Elder sister,10,left,17,extracted/Participant_10/left/3149,test
+P10_3185_left,3185,睡觉,Sleep,10,left,12,extracted/Participant_10/left/3185,test
+P10_3257_left,3257,腿1-1,Leg1-1,10,left,15,extracted/Participant_10/left/3257,test
+P10_3308_left,3308,开始,Start,10,left,12,extracted/Participant_10/left/3308,test
+P10_3386_left,3386,起床,Get up,10,left,15,extracted/Participant_10/left/3386,test
+P10_3388_left,3388,饭,Meal,10,left,10,extracted/Participant_10/left/3388,test
+P10_3422_left,3422,篮球,Basketball,10,left,17,extracted/Participant_10/left/3422,test
+P10_3492_left,3492,为什么,Why,10,left,17,extracted/Participant_10/left/3492,test
+P10_3504_left,3504,喝,Drink,10,left,10,extracted/Participant_10/left/3504,test
+P10_3609_left,3609,大,Big,10,left,17,extracted/Participant_10/left/3609,test
+P10_3672_left,3672,爱,Love,10,left,24,extracted/Participant_10/left/3672,test
+P10_3703_left,3703,去,Go,10,left,12,extracted/Participant_10/left/3703,test
+P10_3716_left,3716,书包,Schoolbag,10,left,15,extracted/Participant_10/left/3716,test
+P10_3735_left,3735,等,Wait,10,left,17,extracted/Participant_10/left/3735,test
+P10_3789_left,3789,银行,Bank,10,left,15,extracted/Participant_10/left/3789,test
+P10_3993_left,3993,买,Buy,10,left,12,extracted/Participant_10/left/3993,test
+P10_4002_left,4002,哥哥,Elder brother,10,left,24,extracted/Participant_10/left/4002,test
+P10_4027_left,4027,黑,Black,10,left,15,extracted/Participant_10/left/4027,test
+P10_4073_left,4073,脚1-1,Foot (sign 1-1),10,left,20,extracted/Participant_10/left/4073,test
+P10_4102_left,4102,多,Many,10,left,15,extracted/Participant_10/left/4102,test
+P10_4113_left,4113,以前,Before,10,left,15,extracted/Participant_10/left/4113,test
+P10_4249_left,4249,饿,Hungry,10,left,17,extracted/Participant_10/left/4249,test
+P10_4270_left,4270,肉,Meat,10,left,17,extracted/Participant_10/left/4270,test
+P10_4349_left,4349,对,Right,10,left,12,extracted/Participant_10/left/4349,test
+P10_4462_left,4462,学习1-1,Study (sign 1-1),10,left,15,extracted/Participant_10/left/4462,test
+P10_4466_left,4466,昨天,Yesterday,10,left,10,extracted/Participant_10/left/4466,test
+P10_4485_left,4485,白,White,10,left,10,extracted/Participant_10/left/4485,test
+P10_4486_left,4486,小孩儿,Child,10,left,17,extracted/Participant_10/left/4486,test
+P10_4525_left,4525,怎样,How,10,left,17,extracted/Participant_10/left/4525,test
+P10_4542_left,4542,明天,Tomorrow,10,left,15,extracted/Participant_10/left/4542,test
+P10_4691_left,4691,听,Listen,10,left,12,extracted/Participant_10/left/4691,test
+P10_4870_left,4870,做,Do,10,left,10,extracted/Participant_10/left/4870,test
+P10_4871_left,4871,美,Beauty,10,left,15,extracted/Participant_10/left/4871,test
+P10_4878_left,4878,干净,Clean,10,left,12,extracted/Participant_10/left/4878,test
+P10_4904_left,4904,公司,Company,10,left,12,extracted/Participant_10/left/4904,test
+P10_4910_left,4910,有,Have,10,left,15,extracted/Participant_10/left/4910,test
+P10_4944_left,4944,眼镜,Glasses,10,left,17,extracted/Participant_10/left/4944,test
+P10_4967_left,4967,所以1-1,So (sign 1-1),10,left,12,extracted/Participant_10/left/4967,test
+P10_4979_left,4979,弟弟,Younger brother,10,left,27,extracted/Participant_10/left/4979,test
+P10_5008_left,5008,朋友,Friend,10,left,17,extracted/Participant_10/left/5008,test
+P10_5022_left,5022,用,Use,10,left,15,extracted/Participant_10/left/5022,test
+P10_5086_left,5086,也,Also,10,left,12,extracted/Participant_10/left/5086,test
+P10_5094_left,5094,帮助,Help,10,left,15,extracted/Participant_10/left/5094,test
+P10_5253_left,5253,腻2-2,Be bored with (sign 2-2),10,left,17,extracted/Participant_10/left/5253,test
+P10_5311_left,5311,对不起1-2,Sorry (sign 1-2),10,left,12,extracted/Participant_10/left/5311,test
+P10_5316_left,5316,玩1-1,Play (sign 1-1),10,left,17,extracted/Participant_10/left/5316,test
+P10_5340_left,5340,脏,Dirty,10,left,12,extracted/Participant_10/left/5340,test
+P10_5353_left,5353,咖啡,Coffee,10,left,15,extracted/Participant_10/left/5353,test
+P10_5466_left,5466,图书馆,Library,10,left,15,extracted/Participant_10/left/5466,test
+P10_5471_left,5471,小,Small,10,left,15,extracted/Participant_10/left/5471,test
+P10_5478_left,5478,和,And,10,left,15,extracted/Participant_10/left/5478,test
+P10_5504_left,5504,1,One,10,left,12,extracted/Participant_10/left/5504,test
+P10_5513_left,5513,5,Five,10,left,8,extracted/Participant_10/left/5513,test
+P10_5575_left,5575,8,Eight,10,left,10,extracted/Participant_10/left/5575,test
+P10_5599_left,5599,大家,Everyone,10,left,24,extracted/Participant_10/left/5599,test
+P10_5610_left,5610,需要1-1,Need (sign 1-1),10,left,12,extracted/Participant_10/left/5610,test
+P10_5637_left,5637,谁,Who,10,left,17,extracted/Participant_10/left/5637,test
+P10_5651_left,5651,作业,School assignment,10,left,15,extracted/Participant_10/left/5651,test
+P10_5698_left,5698,开朗,Cheerful,10,left,15,extracted/Participant_10/left/5698,test
+P10_5716_left,5716,高兴,Happy,10,left,12,extracted/Participant_10/left/5716,test
+P10_5726_left,5726,家,Home,10,left,15,extracted/Participant_10/left/5726,test
+P10_5736_left,5736,紫,Purple,10,left,14,extracted/Participant_10/left/5736,test
+P10_5753_left,5753,椅子,Chair,10,left,17,extracted/Participant_10/left/5753,test
+P10_5780_left,5780,因为1-1,Because (sign 1-1),10,left,15,extracted/Participant_10/left/5780,test
+P10_5781_left,5781,高,High,10,left,12,extracted/Participant_10/left/5781,test
+P10_5800_left,5800,问,Ask,10,left,15,extracted/Participant_10/left/5800,test
+P10_5807_left,5807,渴,Thirsty,10,left,27,extracted/Participant_10/left/5807,test
+P10_5855_left,5855,红,Red,10,left,12,extracted/Participant_10/left/5855,test
+P10_5858_left,5858,腹,Abdomen,10,left,10,extracted/Participant_10/left/5858,test
+P10_5894_left,5894,车站,Station,10,left,20,extracted/Participant_10/left/5894,test
+P10_6056_left,6056,没事,It's okay,10,left,17,extracted/Participant_10/left/6056,test
+P10_6105_left,6105,休息,Rest,10,left,17,extracted/Participant_10/left/6105,test
+P10_6149_left,6149,厕所,Toilet,10,left,15,extracted/Participant_10/left/6149,test
+P10_6195_left,6195,香蕉,Banana,10,left,15,extracted/Participant_10/left/6195,test
+P10_6230_left,6230,忧愁,Sad,10,left,17,extracted/Participant_10/left/6230,test
+P10_6254_left,6254,卖,Sell,10,left,20,extracted/Participant_10/left/6254,test
+P10_6264_left,6264,爷爷,Grandfather,10,left,17,extracted/Participant_10/left/6264,test
+P10_6307_left,6307,下课,Finish class,10,left,15,extracted/Participant_10/left/6307,test
+P10_6343_left,6343,黄1-1,Yellow (sign 1-1),10,left,15,extracted/Participant_10/left/6343,test
+P10_6363_left,6363,紧张,Nervous,10,left,24,extracted/Participant_10/left/6363,test
+P10_6450_left,6450,他,He,10,left,12,extracted/Participant_10/left/6450,test
+P10_6488_left,6488,教室,Classroom,10,left,15,extracted/Participant_10/left/6488,test
+P10_6526_left,6526,参加,Participate,10,left,20,extracted/Participant_10/left/6526,test
+P10_6532_left,6532,足球,Football,10,left,15,extracted/Participant_10/left/6532,test
+P10_6571_left,6571,你们,You (plural),10,left,17,extracted/Participant_10/left/6571,test
+P10_6618_left,6618,现在,Now,10,left,15,extracted/Participant_10/left/6618,test
+P10_6645_left,6645,蓝1-2,Blue (sign 1-2),10,left,10,extracted/Participant_10/left/6645,test
+P10_6654_left,6654,知道,Know,10,left,17,extracted/Participant_10/left/6654,test
